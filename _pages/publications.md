@@ -10,8 +10,7 @@ classes: wide
 ____
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">First Authored</span>
- 
-__Li, S.__ †, Luo, H. †, Kou, S., & Zhu, Q. Depth-resolved attenuation mapping of human ovary and fallopian tube using optical coherence tomography. (Under preparation)
+
 __Li, S.__, Zhang, M., Xue, M., & Zhu, Q. (2022). Difference imaging from single measurements in diffuse optical tomography: A deep learning approach. Journal of Biomedical Optics, 27(8), 086003. 
 [[Article]](https://doi.org/10.1117/1.JBO.27.8.086003) [[Code]](https://github.com/Shy-Li/DOT_pert_generation)
 
