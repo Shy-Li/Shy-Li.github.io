@@ -9,7 +9,7 @@ classes: wide
 
 ____
 
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Refereed Publications</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">First Authored</span>
  
 __Li, S.__ †, Luo, H. †, Kou, S., & Zhu, Q. Depth-resolved attenuation mapping of human ovary and fallopian tube using optical coherence tomography. (Under preparation)
 __Li, S.__, Zhang, M., Xue, M., & Zhu, Q. (2022). Difference imaging from single measurements in diffuse optical tomography: A deep learning approach. Journal of Biomedical Optics, 27(8), 086003. 
@@ -21,8 +21,6 @@ Luo, H. †, __Li, S.__ †, Zeng, Y. †, …, Zhu, Q. (2022). Human colorectal
 __Li, S.__, Zhang, M., & Zhu, Q. (2021). Ultrasound segmentation-guided edge artifact reduction in diffuse optical tomography using connected component analysis. Biomedical Optics Express, 12(8), 5320-5336.
 
 
-Zhang, M., __Li, S.__, Zou, Y., & Zhu, Q. (2021). Deep learning-based method to accurately estimate breast tissue optical properties in the presence of the chest wall. Journal of Biomedical Optics, 26(10), 106004.
-
 __Li, S.__, Huang, K., Zhang, M., Uddin, K. S., & Zhu, Q. (2021). Effect and correction of optode coupling errors in breast imaging using diffuse optical tomography. Biomedical Optics Express, 12(2), 689-704. (Most downloaded papers)
 
 
@@ -30,3 +28,7 @@ __Li, S.__ †, Zeng, Y. †, Chapman Jr, W. C. †, Erfanzadeh, M., Nandy, S., 
 
 
 __Li, S.__ †, Qin, Y. †, Wang, X., & Yang, X. (2018). Bubble growth in cylindrically-shaped optical absorbers during photo-mediated ultrasound therapy. Physics in Medicine & Biology, 63(12), 125017. 
+
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Other Selected</span>
+
+Zhang, M., __Li, S.__, Zou, Y., & Zhu, Q. (2021). Deep learning-based method to accurately estimate breast tissue optical properties in the presence of the chest wall. Journal of Biomedical Optics, 26(10), 106004.
