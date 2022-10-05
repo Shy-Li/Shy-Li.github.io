@@ -4,7 +4,7 @@ main:
     url: /_pages/research/
     
   - title: "Publications"
-    url: /publications/
+    url: /_pages/publications/
     
   - title: "Talks"
     url: /_pages/talks/
