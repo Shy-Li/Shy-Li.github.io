@@ -33,6 +33,7 @@ In general, image reconstruction methods used in diffuse optical tomography (DOT
 <img src="/files/JBO_26_10_106004_f009.png"  width="600" height="470" />
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Machine learning with physical constrains for DOT reconstruction</span>
+<img src="/files/ML_PC.jpg"  width="600" height="300" />
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Fusion network for breast lesion classification</span>
 We trained a fusion deep network to combine DOT and coregistered US images to classify breast lesions. The combined deep learning model achieved outperforms DOT alone or US alone.
