@@ -24,6 +24,14 @@ Our lab uses Ultrasound (US)-guided DOT to probe tissue optical properties i.e. 
 
 <img src="/files/2022JBO.jpg"  width="450" height="450" />
 
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">CNN for accurately estimating breast tissue optical properties</span>
+[[Paper]](https://doi.org/10.1117/1.JBO.26.10.106004)
+In general, image reconstruction methods used in diffuse optical tomography (DOT) are based on diffusion approximation, and they consider the breast tissue as a homogenous, semi-infinite medium. However, the semi-infinite medium assumption used in DOT reconstruction is not valid when the chest wall is underneath the breast tissue. We propose a deep learning-based neural network approach where a convolution neural network (CNN) is trained to simultaneously obtain accurate optical property values for both the breast tissue and the chest wall. The CNN model shows great promise in reducing errors in estimating the optical properties of the breast tissue in the presence of a shallow chest wall. 
+
+<img src="/files/JBO_26_10_106004_f002.png"  width="600" height="160" />
+<img src="/files/JBO_26_10_106004_f009.png"  width="600" height="500" />
+
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Machine learning with physical constrains for DOT reconstruction</span>
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Fusion network for breast lesion classification</span>
 We trained a fusion deep network to combine DOT and coregistered US images to classify breast lesions. The combined deep learning model achieved outperforms DOT alone or US alone.
