@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,3 +9,4 @@ redirect_from:
 ---
 I am a Ph.D. candidate at the Department of Biomedical Engineering, Washington University in St. Louis. I have been working with Dr.Quing Zhu on cancer diagnosis using optical imaging, including diffuse optical tomography, optical coherence tomography, and spatial frequency domain imaging. I focuse on tackling practical problems in clinical/preclinical studies using algorithms and machine learning.
 
+I love art and music. 
