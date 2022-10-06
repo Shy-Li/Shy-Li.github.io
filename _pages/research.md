@@ -24,7 +24,7 @@ Trained a fusion network to combine DOT and co-registered ultrasound for real-ti
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Human coloreactal cancer classification using deep learning and OCT</span>
 Designed a customized ResNet and applied it to OCT colorectal images acquired with our homemade catheter. 
 
-<img src="/files/OCT_colon.jpg" align = width="300" height="394" /> <img src="/files/OCT_colon2.jpg" width="520" height="394" />
+<img src="/files/OCT_colon.jpg" width="300" height="394" /> <img src="/files/OCT_colon2.jpg" width="520" height="394" />
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Spatial Frequency Domain Imaging (SFDI)</span>
 Trained an AdaBoost classifier using optical absorption and scattering features calculated from SFDI colorectal images.
