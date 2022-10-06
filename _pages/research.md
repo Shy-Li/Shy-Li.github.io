@@ -15,7 +15,7 @@ Our lab uses Ultrasound (US)-guided DOT to probe tissue optical properties i.e. 
 [[Paper1: Correction of optode coupling errors]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5320&id=453847)  
 [[Paper2: Ultrasound-guided edge artifact reduction]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-2-689&id=445667)
 
-<img src="/files/coupling_error_thumbnail.tif" width="360" height="360" /><img src="/files/edge_artifact_thumbnail.tif" width="360" height="360" />
+<img src="/files/coupling_error_thumbnail.jpg" width="360" height="360" /><img src="/files/edge_artifact_thumbnail.jpg" width="360" height="360" />
 
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Difference imaging from single measurements</span>
