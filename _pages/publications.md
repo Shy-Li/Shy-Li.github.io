@@ -15,7 +15,7 @@ __Li, S.__, Zhang, M., Xue, M., & Zhu, Q. (2022). Difference imaging from single
 [[Article]](https://doi.org/10.1117/1.JBO.27.8.086003) [[Code]](https://github.com/Shy-Li/DOT_pert_generation)
 
 Luo, H.<sup>†</sup>, __Li, S.__<sup>†</sup>, Zeng, Y.<sup>†</sup>, …, Zhu, Q. (2022). Human colorectal cancer tissue assessment using optical coherence tomography catheter and deep learning. Journal of Biophotonics, e202100349. (__Inside cover__)
-[[Article]]((https://onlinelibrary.wiley.com/doi/10.1002/jbio.202100349)) [[Code]](https://github.com/Shy-Li/OCT_CNN)
+[[Article]](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202100349) [[Code]](https://github.com/Shy-Li/OCT_CNN)
 
 __Li, S.__, Zhang, M., & Zhu, Q. (2021). Ultrasound segmentation-guided edge artifact reduction in diffuse optical tomography using connected component analysis. Biomedical Optics Express, 12(8), 5320-5336.
 
