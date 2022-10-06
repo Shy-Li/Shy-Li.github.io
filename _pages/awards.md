@@ -7,7 +7,7 @@ classes: wide
 ---
 
 - __2022__  Gordon research conference travel award ($600)
-- __2022__  Student Paper Award finalist, Optica Biophotonics Congress 2022 (top 4)
+- __2022__  Student Paper Award finalist, Optica Biophotonics Congress 2022 (top 4 in session)
 - __2022__  PhD Outstanding Research Awards (3 out of 144 BME PhD students)
 - __2021__  BMES travel award ($800)
 - __2020__	Best Poster Award at Siteman Cancer Center Research Forum (top 5)
