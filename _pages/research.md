@@ -13,7 +13,7 @@ My thesis aims to solve practical problems in DOT breast imaging and to improve 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Tackling mismatch errors</span>
 Proposed algorithms to mitigate probe-tissue contact problems and image artifacts, which can easily happen during clinical studies due to breast curvature and patient movement. 
 
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Tackling mismatch errors</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Difference imaging from single measurements</span>
 Designed a multi-layer perceptron (MLP) to output data for difference imaging from target measurements only. This approach significantly simplifies data acquisition and post-processing, and it mitigates mismatch problems in DOT difference imaging using various systems for different applications. 
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Fusion network for breast lesion classification</span>
