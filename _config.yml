@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shuying Li"
-  avatar           : "/files/profile.JPG"
+  avatar           : "profile.JPG"
   bio              : "PhD candidate in Biomedical Engineering, Washington University in St. Louis."
   location         : "St. Louis, MO, United States"
   employer         :
