@@ -19,21 +19,21 @@ classes: wide
 - __Oral__ presentation on DOT in BMES annual meeting
 - __Oral__ presentation on OCT at Siteman Cancer Center Research Forum
 - __Oral__ presentation on DOT in SPIE Photonics West
-- (Invited) Oral presentation at the Imaging Science Student Seminar Series
-- Poster presentation on DOT at Imaging Sciences Pathway Retrea
-- Poster presentation on DOT at Siteman Oncologic Imaging Program Poster Session & Lectur
+- (Invited) __Oral__ presentation at the Imaging Science Student Seminar Series
+- Poster presentation on DOT at Imaging Sciences Pathway Retreat
+- Poster presentation on DOT at Siteman Oncologic Imaging Program Poster Session & Lecture
 
 
 # <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">2020</span>
 - __Oral__ presentation on SFDI in OSA Biophotonics Congress
 - __Oral__ presentation on SFDI at Siteman Oncologic Imaging Program Poster Session & Lecture
-- Poster presentation on DOT in OSA Biophotonics Congres
-- Poster presentation on DOT at Siteman Cancer Center Research Foru
+- Poster presentation on DOT in OSA Biophotonics Congress
+- Poster presentation on DOT at Siteman Cancer Center Research Forum
 
 
 # <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">2019</span>
-- Poster presentation on DOT at Imaging Sciences Pathway Retrea
-- Poster presentation on DOT at Breast Cancer Research Program Foru
+- Poster presentation on DOT at Imaging Sciences Pathway Retreat
+- Poster presentation on DOT at Breast Cancer Research Program Forum
 
 
 # <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">2017</span>
