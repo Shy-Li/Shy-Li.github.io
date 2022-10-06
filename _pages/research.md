@@ -15,7 +15,7 @@ Our lab uses Ultrasound (US)-guided DOT to probe tissue optical properties i.e. 
 [[Paper1: Correction of optode coupling errors]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5320&id=453847)  
 [[Paper2: Ultrasound-guided edge artifact reduction]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-2-689&id=445667)
 
-<img src="/files/coupling_error_thumbnail.jpg" width="360" height="360" /><img src="/files/edge_artifact_thumbnail.jpg" width="360" height="360" />
+<img src="/files/coupling_error_thumbnail.jpg" width="360" height="360" /><img src="/files/2021_edge_artifact_thumbnail.jpg" width="360" height="360" />
 
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Difference imaging from single measurements</span>
@@ -39,7 +39,7 @@ Optical coherence tomography (OCT) can differentiate normal colonic mucosa from 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Spatial Frequency Domain Imaging (SFDI)</span>
 Multiwavelength spatial frequency domain imaging (SFDI) can provide tissue optical absorption and scattering signatures, and would be able to differentiate various colorectal neoplasia from normal tissue. In this ex vivo study of human colorectal tissues, we trained an abnormal vs. normal adaptive boosting (AdaBoost) classifier to dichotomize tissue based on SFDI imaging characteristics, and an area under the receiver operating characteristic (ROC) curve (AUC) of 0.95 is achieved. 
 
-<img src="/files/SFDI_colon.jpg" width="270" height="360" />
+<img src="/files/SFDI_colon.jpg" width="270" height="360" /><img src="/files/SFDI_colon2.jpg" width="480" height="300" />
 
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Image-guided Photo-mediated Ultrasound Therapy</span>
