@@ -32,4 +32,4 @@ __Li, S.__<sup>†</sup>, Qin, Y.<sup>†</sup>, Wang, X., & Yang, X. (2018). Bu
 
 Zhang, M., __Li, S.__, Zou, Y., & Zhu, Q. (2021). Deep learning-based method to accurately estimate breast tissue optical properties in the presence of the chest wall. Journal of Biomedical Optics, 26(10), 106004.
 
-Zou, Y., Zeng, Y., __Li, S.__, & Zhu, Q. (2021). Machine learning model with physical constraints for diffuse optical tomography. Biomedical Optics Express, 12(9), 5720-5735.
+Zou, Y., Zeng, Y., __Li, S.__, & Zhu, Q. (2021). Machine learning model with physical constraints for diffuse optical tomography. Biomedical Optics Express, 12(9), 5720-5735. (__Most downloaded papers__)
