@@ -21,14 +21,14 @@ Trained a fusion network to combine DOT and co-registered ultrasound for real-ti
 
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Optical Coherence Tomography (OCT)</span>
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Human coloreactal cancer classification using deep learning and OCT</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Human coloreactal cancer classification using deep learning and OCT</span>
 Designed a customized ResNet and applied it to OCT colorectal images acquired with our homemade catheter. 
 
 
-# <span style="color:black; font-family:Comic Sans MS;font-size: 20px;">Spatial Frequency Domain Imaging (SFDI)</span>
+# <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Spatial Frequency Domain Imaging (SFDI)</span>
 Trained an AdaBoost classifier using optical absorption and scattering features calculated from SFDI colorectal images.
 
 
-# <span style="color:black; font-family:Comic Sans MS;font-size: 20px;">Image-guided Photo-mediated Ultrasound Therapy</span>
+# <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Image-guided Photo-mediated Ultrasound Therapy</span>
 Simultaneously applied laser and ultrasound treat neovascularization in rabbit eyes guided by OCT & photoacoustic microscopy (PAM).
 Simulated bubble dynamics under simultaneous laser & ultrasound and validated the simulations with experiments on tubes filled with blood.
