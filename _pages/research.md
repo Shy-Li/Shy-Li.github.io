@@ -11,10 +11,12 @@ classes: wide
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Tackling mismatch errors</span>
 My thesis aims to solve practical problems in DOT breast imaging and to improve breast cancer diagnosis. I proposed algorithms to mitigate probe-tissue contact problems and image artifacts, which can easily happen during clinical studies due to breast curvature and patient movement. 
 
-<img src="/files/2022JBO.jpg"  width="400" height="400" />
+
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Difference imaging from single measurements</span>
 Designed a multi-layer perceptron (MLP) to output data for difference imaging from target measurements only. This approach significantly simplifies data acquisition and post-processing, and it mitigates mismatch problems in DOT difference imaging using various systems for different applications. 
+
+<img src="/files/2022JBO.jpg"  width="450" height="450" />
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Fusion network for breast lesion classification</span>
 Trained a fusion network to combine DOT and co-registered ultrasound for real-time classification of breast lesions that can assist in clinical decisions. 
