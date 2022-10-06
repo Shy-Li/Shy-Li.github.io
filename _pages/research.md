@@ -9,12 +9,15 @@ classes: wide
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Diffuse Optical Tomography (DOT)</span>
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Tackling mismatch errors</span>
-My thesis aims to solve practical problems in DOT breast imaging and to improve breast cancer diagnosis. I proposed algorithms to mitigate probe-tissue contact problems and image artifacts, which can easily happen during clinical studies due to breast curvature and patient movement. 
+My thesis aims to solve practical problems in DOT breast imaging and to improve breast cancer diagnosis.
+Our lab uses Ultrasound (US)-guided DOT to probe tissue optical properties i.e. optical absorption, oxygenated and deoxygenated hemoglobin concertation for breast cancer diagnosis and treatment monitoring. However, imaging artifacts can  appear due to mismatches between the two side breasts in tissue curvature, tissue heterogeneity, the depth and angle of the chest wall underneath the breast tissue, and source or detector (optode) coupling. During patient studies, these errors can all cause misinterpretation of lesion images. I proposed algorithms to mitigate probe-tissue contact problems and image artifacts, which can easily happen during clinical studies due to breast curvature and patient movement. 
 
+[[Paper1: Correction of optode coupling errors]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5320&id=453847)  
+[[Paper2: Ultrasound-guided edge artifact removal]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-2-689&id=445667)
 
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Difference imaging from single measurements</span>
-Designed a multi-layer perceptron (MLP) to output data for difference imaging from target measurements only. This approach significantly simplifies data acquisition and post-processing, and it mitigates mismatch problems in DOT difference imaging using various systems for different applications. 
+“Difference imaging”, which reconstructs target optical properties using measurements with and without target information, is often used in DOT in vivo imaging. However, taking additional reference measurements is time-consuming, and mismatches between the target medium and the reference medium can cause inaccurate reconstruction. I designed a multi-layer perceptron (MLP) to output data for difference imaging from target measurements only. The model is trained and validated on simulation data and tested with simulations, phantom experiments, and clinical data from 56 patients with breast lesions. It can simplify the data acquisition procedure, mitigate mismatch problems, and improve reconstructed image quality in DOT difference imaging. 
 
 <img src="/files/2022JBO.jpg"  width="450" height="450" />
 
@@ -24,7 +27,7 @@ Trained a fusion network to combine DOT and co-registered ultrasound for real-ti
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Optical Coherence Tomography (OCT)</span>
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Human coloreactal cancer classification using deep learning and OCT</span>
-Optical coherence tomography (OCT) can differentiate normal colonic mucosa from neoplasia, potentially offering a new mechanism of endoscopic tissue assessment and biopsy targeting, with a high optical resolution and an imaging depth of ~1 mm. Recent advances in convolutional neural networks (CNN) have enabled application in ophthalmology, cardiology, and gastroenterology malignancy detection with high sensitivity and specificity. Here, we describe a miniaturized OCT catheter and a residual neural network (ResNet)-based deep learning model manufactured and trained to perform automatic image processing and real-time diagnosis of the OCT images. The OCT catheter has an outer diameter of 3.8 mm, a lateral resolution of ~7 μm, and an axial resolution of ~6 μm. A customized ResNet is utilized to classify OCT catheter colorectal images. An area under the receiver operating characteristic (ROC) curve (AUC) of 0.975 is achieved to distinguish between normal and cancerous colorectal tissue images.
+Optical coherence tomography (OCT) can differentiate normal colonic mucosa from neoplasia, potentially offering a new mechanism of endoscopic tissue assessment and biopsy targeting, with a high optical resolution and an imaging depth of ~1 mm. I designed customized ResNet is utilized to classify OCT catheter colorectal images. An area under the receiver operating characteristic (ROC) curve (AUC) of 0.975 is achieved to distinguish between normal and cancerous colorectal tissue images.
 
 <img src="/files/OCT_colon.jpg" width="270" height="360" /><img src="/files/OCT_colon2.jpg" width="480" height="360" />
 
