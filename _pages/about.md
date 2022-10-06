@@ -12,8 +12,6 @@ I am a Ph.D. candidate at the Department of Biomedical Engineering, Washington U
 
 # In the News
 ### [Machine learning, imaging technique provide better insight into colorectal tissue](https://engineering.wustl.edu/news/2020/Machine-learning-imaging-technique-provide-better-insight-into-colorectal-tissue.html)
-
 ### [Pairing imaging, AI may improve colon cancer screening, diagnosis](https://source.wustl.edu/2022/08/pairing-imaging-ai-may-improve-colon-cancer-screening-diagnosis/)
-
 ### [WashU BME Outstanding Research Award](https://twitter.com/WashUBME/status/1521575056337514496)
  
