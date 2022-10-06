@@ -22,6 +22,7 @@ Our lab uses Ultrasound (US)-guided DOT to probe tissue optical properties i.e. 
 
 <img src="/files/2022JBO.jpg"  width="450" height="450" />
 
+
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Fusion network for breast lesion classification</span>
 Trained a fusion network to combine DOT and co-registered ultrasound for real-time classification of breast lesions that can assist in clinical decisions. 
 
@@ -34,12 +35,10 @@ Optical coherence tomography (OCT) can differentiate normal colonic mucosa from 
 <img src="/files/OCT_colon.jpg" width="270" height="360" /><img src="/files/OCT_colon2.jpg" width="480" height="360" />
 
 
-
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Spatial Frequency Domain Imaging (SFDI)</span>
 Trained an AdaBoost classifier using optical absorption and scattering features calculated from SFDI colorectal images.
 
 <img src="/files/SFDI_colon.jpg" width="270" height="360" />
-
 
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Image-guided Photo-mediated Ultrasound Therapy</span>
