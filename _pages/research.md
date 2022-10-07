@@ -34,6 +34,7 @@ In general, image reconstruction methods used in diffuse optical tomography (DOT
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Machine learning with physical constrains for DOT reconstruction</span>
 We trained an Autoencoder-based machine learning model with physical constraints (ML-PC) to perform diffuse optical tomography (DOT) reconstruction. Our method has two key components: (i) a neural network based on an auto-encoder is adopted for DOT reconstruction, and (ii) physical constraints are implemented to achieve accurate reconstruction. Both qualitative and quantitative results demonstrate that the accuracy of the proposed method surpasses that of existing models.
+[[Paper]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-9-5720&id=458081)
 
 <img src="/files/ML_PC.jpg"  width="600" height="210" />
 
@@ -50,10 +51,19 @@ Optical coherence tomography (OCT) can differentiate normal colonic mucosa from 
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Spatial Frequency Domain Imaging (SFDI)</span>
 Multiwavelength spatial frequency domain imaging (SFDI) can provide tissue optical absorption and scattering signatures, and would be able to differentiate various colorectal neoplasia from normal tissue. In this ex vivo study of human colorectal tissues, we trained an abnormal vs. normal adaptive boosting (AdaBoost) classifier to dichotomize tissue based on SFDI imaging characteristics, and an area under the receiver operating characteristic (ROC) curve (AUC) of 0.95 is achieved. 
+[[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.201960241)
 
 <img src="/files/SFDI_colon.jpg" width="240" height="320" />  <img src="/files/SFDI_colon2.jpg" width="500" height="320" />
 
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Image-guided Photo-mediated Ultrasound Therapy</span>
+[[Paper]](https://iopscience.iop.org/article/10.1088/1361-6560/aac7bc/meta)
 Simultaneously applied laser and ultrasound treat neovascularization in rabbit eyes guided by OCT & photoacoustic microscopy (PAM).
 Simulated bubble dynamics under simultaneous laser & ultrasound and validated the simulations with experiments on tubes filled with blood.
+
+
+
+
+
+
+
