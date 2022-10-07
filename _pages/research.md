@@ -15,14 +15,14 @@ Our lab uses Ultrasound (US)-guided DOT to probe tissue optical properties i.e. 
 [[Paper1: Correction of optode coupling errors]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5320&id=453847)  
 [[Paper2: Ultrasound-guided edge artifact reduction]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-2-689&id=445667)
 
-<img src="/files/coupling_error_thumbnail.jpg" width="360" height="360" /><img src="/files/2021_edge_artifact_thumbnail.jpg" width="360" height="360" />
+<img src="/files/coupling_error_thumbnail.jpg" width="360" height="360" />  <img src="/files/2021_edge_artifact_thumbnail.jpg" width="360" height="360" />
 
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Difference imaging from single measurements</span>
 “Difference imaging”, which reconstructs target optical properties using measurements with and without target information, is often used in DOT in vivo imaging. However, taking additional reference measurements is time-consuming, and mismatches between the target medium and the reference medium can cause inaccurate reconstruction. I designed a multi-layer perceptron (MLP) to output data for difference imaging from target measurements only. The model is trained and validated on simulation data and tested with simulations, phantom experiments, and clinical data from 56 patients with breast lesions. It can simplify the data acquisition procedure, mitigate mismatch problems, and improve reconstructed image quality in DOT difference imaging. 
 [[Paper]](https://doi.org/10.1117/1.JBO.27.8.086003) [[Code]](https://github.com/Shy-Li/DOT_pert_generation)
 
-<img src="/files/2022JBO.jpg"  width="450" height="450" />
+<img src="/files/2022JBO.jpg"  width="480" height="480" />
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">CNN for accurately estimating breast tissue optical properties</span>
 
@@ -33,7 +33,9 @@ In general, image reconstruction methods used in diffuse optical tomography (DOT
 <img src="/files/JBO_26_10_106004_f009.png"  width="600" height="470" />
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Machine learning with physical constrains for DOT reconstruction</span>
-<img src="/files/ML_PC.jpg"  width="600" height="300" />
+We trained an Autoencoder-based machine learning model with physical constraints (ML-PC) to perform diffuse optical tomography (DOT) reconstruction. Our method has two key components: (i) a neural network based on an auto-encoder is adopted for DOT reconstruction, and (ii) physical constraints are implemented to achieve accurate reconstruction. Both qualitative and quantitative results demonstrate that the accuracy of the proposed method surpasses that of existing models.
+
+<img src="/files/ML_PC.jpg"  width="600" height="210" />
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Fusion network for breast lesion classification</span>
 We trained a fusion deep network to combine DOT and coregistered US images to classify breast lesions. The combined deep learning model achieved outperforms DOT alone or US alone.
