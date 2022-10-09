@@ -57,9 +57,9 @@ Multiwavelength spatial frequency domain imaging (SFDI) can provide tissue optic
 
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Image-guided Photo-mediated Ultrasound Therapy</span>
-[[Paper]](https://iopscience.iop.org/article/10.1088/1361-6560/aac7bc/meta)
 Simultaneously applied laser and ultrasound treat neovascularization in rabbit eyes guided by OCT & photoacoustic microscopy (PAM).
 Simulated bubble dynamics under simultaneous laser & ultrasound and validated the simulations with experiments on tubes filled with blood.
+[[Paper]](https://iopscience.iop.org/article/10.1088/1361-6560/aac7bc/meta)
 
 
 
