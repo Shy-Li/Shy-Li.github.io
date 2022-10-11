@@ -6,9 +6,8 @@ author_profile: true
 classes: wide
 ---
 
-# <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">2022</span>
-- Poster presentation on OCT at Gordon Research Seminar  
-- __Oral, invited__ presentation on OCT in SPIE Photonics West
+# <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">2023</span>
+- __Oral, invited__ presentation on DOT fusion model in SPIE Photonics West
 
 # <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">2022</span>
 - Poster presentation on OCT at Gordon Research Seminar 
