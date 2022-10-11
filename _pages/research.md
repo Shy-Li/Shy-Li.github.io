@@ -50,6 +50,8 @@ Optical coherence tomography (OCT) can differentiate normal colonic mucosa from 
 
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Spatial Frequency Domain Imaging (SFDI)</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">AdaBoost-based multiwavelength SFDI for human colorectal tissue assessment</span>
+
 Multiwavelength spatial frequency domain imaging (SFDI) can provide tissue optical absorption and scattering signatures, and would be able to differentiate various colorectal neoplasia from normal tissue. In this ex vivo study of human colorectal tissues, we trained an abnormal vs. normal adaptive boosting (AdaBoost) classifier to dichotomize tissue based on SFDI imaging characteristics, and an area under the receiver operating characteristic (ROC) curve (AUC) of 0.95 is achieved. 
 [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.201960241)
 
