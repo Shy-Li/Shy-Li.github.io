@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a Ph.D. candidate at the Department of Biomedical Engineering, Washington University in St. Louis. Prior to my Ph.D. studies, I completed a bachelor’s degree from Zhejiang University and a master’s degree from the University of Michigan. I have been working with Dr.Quing Zhu on cancer diagnosis using optical imaging, including diffuse optical tomography, optical coherence tomography, and spatial frequency domain imaging. I focuse on tackling practical problems in clinical/preclinical studies using algorithms and machine learning.
 
-Outside the lab, I spend a lot of time listening to concerts and traveling around. I enjoy playing the piano, Chinese Caligraphy and painting, and photography. 
+Outside the lab, I spend a lot of time listening to concerts and traveling around. I enjoy playing the piano, calligraphy, painting, and photography. 
 
 
 # In the News
