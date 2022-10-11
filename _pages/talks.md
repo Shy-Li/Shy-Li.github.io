@@ -7,11 +7,11 @@ classes: wide
 ---
 
 # <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">2023</span>
-- __Oral, invited__ presentation on DOT fusion model in SPIE Photonics West
+- __(Invited) Oral__ presentation on DOT fusion model in upconming SPIE Photonics West
 
 # <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">2022</span>
 - Poster presentation on OCT at Gordon Research Seminar 
-- __Oral, invited__ presentation on DOT on BME day 
+- __(Invited) Oral__ presentation on DOT on BME day 
 - __Oral__ presentation on DOT in Optica Biophotonics Congress 
 - __Oral__ presentation on OCT at Imaging Sciences Pathway Retreat 
 - __Oral__ presentation on OCT in SPIE Photonics West
@@ -21,7 +21,7 @@ classes: wide
 - __Oral__ presentation on DOT in BMES annual meeting
 - __Oral__ presentation on OCT at Siteman Cancer Center Research Forum
 - __Oral__ presentation on DOT in SPIE Photonics West
-- __Oral, invited__ presentation at the Imaging Science Student Seminar Series
+- __(Invited) Oral__ presentation at the Imaging Science Student Seminar Series
 - Poster presentation on DOT at Imaging Sciences Pathway Retreat
 - Poster presentation on DOT at Siteman Oncologic Imaging Program Poster Session & Lecture
 
