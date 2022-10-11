@@ -38,7 +38,7 @@ We trained an Autoencoder-based machine learning model with physical constraints
 
 <img src="/files/ML_PC.jpg"  width="600" height="210" />
 
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Fusion network for breast lesion classification</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">(Ongoing) Fusion network for breast lesion classification</span>
 We trained a fusion deep network to combine DOT and coregistered US images to classify breast lesions. The combined deep learning model achieved outperforms DOT alone or US alone.
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Optical Coherence Tomography (OCT)</span>
