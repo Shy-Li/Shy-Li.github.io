@@ -39,4 +39,5 @@ classes: wide
 
 
 # <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">2017</span>
-- Poster presentation on organic semiconductors at 12th Annual Engineering Graduate Symposium & at Michigan Institute for Computational Discovery and Engineering 2017 Symposium
+- Poster presentation on organic semiconductors at 12th Annual Engineering Graduate Symposium 
+- Poster presentation on organic semiconductors at Michigan Institute for Computational Discovery and Engineering 2017 Symposium
