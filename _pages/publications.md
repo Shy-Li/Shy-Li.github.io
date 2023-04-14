@@ -11,6 +11,9 @@ ____
 A complete publication list can be found in my [Google Scholar Page](https://scholar.google.com/citations?user=YniFlEcAAAAJ&hl=en).
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">First Authored (<sup>†</sup>Co-first Authored)</span>
 
+__Li, S.__, Luo, H., Kou, S., Hagemann, I., & Zhu, Q. (2023). Depth‐resolved Attenuation Mapping of the Human Ovary and Fallopian Tube Using Optical Coherence Tomography, Journal of Biophotonics, e202300002.
+[[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.202300002)
+
 __Li, S.__, Zhang, M., Xue, M., & Zhu, Q. (2022). Difference imaging from single measurements in diffuse optical tomography: A deep learning approach. Journal of Biomedical Optics, 27(8), 086003.
 [[Paper]](https://doi.org/10.1117/1.JBO.27.8.086003) [[Code]](https://github.com/Shy-Li/DOT_pert_generation)
 
@@ -19,7 +22,6 @@ Luo, H.<sup>†</sup>, __Li, S.__<sup>†</sup>, Zeng, Y.<sup>†</sup>, …, Zh
 
 __Li, S.__, Zhang, M., & Zhu, Q. (2021). Ultrasound segmentation-guided edge artifact reduction in diffuse optical tomography using connected component analysis. Biomedical Optics Express, 12(8), 5320-5336.
 [[Paper]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5320&id=453847)
-
 
 __Li, S.__, Huang, K., Zhang, M., Uddin, K. S., & Zhu, Q. (2021). Effect and correction of optode coupling errors in breast imaging using diffuse optical tomography. Biomedical Optics Express, 12(2), 689-704. (__Most downloaded papers__)
 [[Paper]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-2-689&id=445667)
@@ -31,6 +33,8 @@ __Li, S.__<sup>†</sup>, Qin, Y.<sup>†</sup>, Wang, X., & Yang, X. (2018). Bu
 [[Paper]](https://iopscience.iop.org/article/10.1088/1361-6560/aac7bc/meta)
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 25px;">Other Selected</span>
+
+Zhang, M., Xue, M., __Li, S.__, Zou, Y., & Zhu, Q. (2023). Fusion deep learning approach combining diffuse optical tomography and ultrasound for improving breast cancer classification. Biomedical Optics Express 14 (4), 1636-1646. [[Paper]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-4-1636&id=528551)[[Code]](https://github.com/OpticalUltrasoundImaging/Fusion_model)
 
 Zhang, M., __Li, S.__, Zou, Y., & Zhu, Q. (2021). Deep learning-based method to accurately estimate breast tissue optical properties in the presence of the chest wall. Journal of Biomedical Optics, 26(10), 106004.
 [[Paper]](https://doi.org/10.1117/1.JBO.26.10.106004)
