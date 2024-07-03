@@ -5,7 +5,11 @@ layout: single
 author_profile: true
 classes: wide
 ---
+# <span style="color:black; font-family:Comic Sans MS;font-size: 25px;"> Deep Learning for Neuropathology </span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">attention-based multiple instance learning for understanding Chronic Traumatic Encephalopathy (CTE)</span>
 
+# <span style="color:black; font-family:Comic Sans MS;font-size: 25px;"> Deep Learning Analysis of Multi-modal Optical Imaging of Human Brain Tissue </span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;"> Deep learning registration of Polarization-Sensitive Optical Coherence Tomography (PS-OCT) and quantitative Birefringence Microscopy (qBRM) images</span>
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Diffuse Optical Tomography (DOT)</span>
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Tackling mismatch errors</span>
