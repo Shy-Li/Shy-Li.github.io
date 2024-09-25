@@ -7,7 +7,7 @@ classes: wide
 ---
 # <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">2024</span>
 - __(Invited) Oral__ presentation on foundation model for neuropathology in	Northeast Symposium on Biomedical Optics
-- 
+
 # <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">2023</span>
 - __(Invited) Oral__ presentation on DOT fusion model in SPIE Photonics West
 
