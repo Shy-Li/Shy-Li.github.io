@@ -13,7 +13,7 @@ classes: wide
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;"> Deep Learning Analysis of Multi-modal Optical Imaging of Human Brain Tissue </span>
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;"> Deep learning registration of Polarization-Sensitive Optical Coherence Tomography (PS-OCT) and quantitative Birefringence Microscopy (qBRM) images</span>
-<img src="/files/coupling_error_thumbnail.jpg" width="360" height="360" /> 
+<img src="/files/OCT_qBRM_reg.tif" width="360" height="540" /> 
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Diffuse Optical Tomography (DOT)</span>
 
