@@ -13,6 +13,7 @@ A complete publication list can be found in my [Google Scholar Page](https://sch
 __Li, S.__, Zhang, M., Xue, M., & Zhu, Q. (2024). Real-time breast lesion classification combining diffuse optical tomography frequency domain data and BI-RADS assessment. Journal of Biophotonics, 202300483. 
 
 Zhang, M.<sup>†</sup>, __Li, S.__. <sup>†</sup>, Xue, M., & Zhu, Q. (2023), A two-step classification scheme for breast lesion diagnosis using ultrasound-guided diffuse optical tomography and deep learning. Journal of Biomedical Optics, 28(8), 086002-086002.
+
 __Li, S.__, Luo, H., Kou, S., Hagemann, I., & Zhu, Q. (2023). Depth‐resolved Attenuation Mapping of the Human Ovary and Fallopian Tube Using Optical Coherence Tomography, Journal of Biophotonics, e202300002.
 [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.202300002)
 
