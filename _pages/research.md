@@ -10,6 +10,7 @@ As a researcher at the intersection of artificial intelligence (AI) and biomedic
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;"> Deep Learning for Neuropathology </span>
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;"> Attention-based multiple instance learning for understanding Chronic Traumatic Encephalopathy (CTE)</span>
+<img src="/files/ABMIL_AT8.png" width="600" height="300" />  
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">  A vision foundation model for neuropathology for advancing AI-driven neuropathological image analysis</span>
 <img src="/files/FM_figures.png" width="540" height="360" />  
