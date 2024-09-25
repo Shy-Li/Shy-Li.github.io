@@ -52,11 +52,6 @@ We trained an Autoencoder-based machine learning model with physical constraints
 
 <img src="/files/ML_PC.jpg"  width="600" height="210" />
 
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Fusion network for breast lesion classification</span>
-We propose a two-stage classification strategy with deep learning. In the first stage, US images and histograms created from DOT perturbation measurements are combined to predict benign lesions. Then the non-benign lesions are passed through the second stage, which combines US features and 3D DOT reconstructed images for final diagnosis.The first stage alone identified 72.6% of benign cases without image reconstruction. In distinguishing between benign and malignant breast lesions in patient data, the two-stage approach achieved an AUC of 0.960, outperforming diagnoses from the first stage alone (AUC = 0.889) and the second stage alone (AUC = 0.909). The proposed two-stage approach can potentially distinguish breast cancers from benign lesions in near real-time.
-
-<img src="/files/DOT_individual_1.jpg" width="540" height="720" />  <img src="/files/DOT_combined_2.jpg" width="480" height="360" />
-
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Optical Coherence Tomography (OCT)</span>
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Human coloreactal cancer classification using deep learning and OCT</span>
 Optical coherence tomography (OCT) can differentiate normal colonic mucosa from neoplasia, potentially offering a new mechanism of endoscopic tissue assessment and biopsy targeting, with a high optical resolution and an imaging depth of ~1 mm. I designed customized ResNet is utilized to classify OCT catheter colorectal images. An area under the receiver operating characteristic (ROC) curve (AUC) of 0.975 is achieved to distinguish between normal and cancerous colorectal tissue images.
