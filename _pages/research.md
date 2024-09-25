@@ -5,6 +5,9 @@ layout: single
 author_profile: true
 classes: wide
 ---
+
+<img src="/files/research_overview" width="540" height="360" /> 
+
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;"> Deep Learning for Neuropathology </span>
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;"> Attention-based multiple instance learning for understanding Chronic Traumatic Encephalopathy (CTE)</span>
 
