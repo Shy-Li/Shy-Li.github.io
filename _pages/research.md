@@ -16,6 +16,12 @@ classes: wide
 <img src="/files/coupling_error_thumbnail.jpg" width="360" height="360" /> 
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Diffuse Optical Tomography (DOT)</span>
+
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Multimodal data fusion for breast lesion classification</span>
+I have developed data fusion approaches to combine ultrasound, DOT, and radiologists' assessments for breast cancer diagnosis. The proposed two-stage approach can potentially distinguish breast cancers from benign lesions in near real-time.
+
+<img src="/files/DOT_individual_1.jpg" width="540" height="720" />  
+
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Tackling mismatch errors</span>
 My thesis aims to solve practical problems in DOT breast imaging and to improve breast cancer diagnosis.
 Our lab uses Ultrasound (US)-guided DOT to probe tissue optical properties i.e. optical absorption, oxygenated and deoxygenated hemoglobin concertation for breast cancer diagnosis and treatment monitoring. However, imaging artifacts can  appear due to mismatches between the two side breasts in tissue curvature, tissue heterogeneity, the depth and angle of the chest wall underneath the breast tissue, and source or detector (optode) coupling. During patient studies, these errors can all cause misinterpretation of lesion images. I proposed two algorithms to mitigate probe-tissue contact problems and reduce image artifacts. 
