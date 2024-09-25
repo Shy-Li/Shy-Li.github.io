@@ -22,9 +22,12 @@ As a researcher at the intersection of artificial intelligence (AI) and biomedic
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Diffuse Optical Tomography (DOT)</span>
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Multimodal data fusion for breast lesion classification</span>
-I have developed data fusion approaches to combine ultrasound, DOT, and radiologists' assessments for breast cancer diagnosis. The proposed two-stage approach can potentially distinguish breast cancers from benign lesions in near real-time.
+I have developed data fusion approaches to combine ultrasound, DOT, and radiologists' BIRADS assessments for breast cancer diagnosis. The proposed two-stage approach can potentially distinguish breast cancers from benign lesions in near real-time.
 
-<img src="/files/DOT_multimodal.png" width="480" height="300" /> <img src="/files/DOT_BIRADS_thumbnail.png" width="480" height="300" />  
+<img src="/files/DOT_multimodal.png" width="480" height="300" /> <img src="/files/DOT_BIRADS_thumbnail.png" width="400" height="300" />  
+[[Paper1: DOT + ultrasound]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-4-1636&id=528551)
+[[Paper2: Two-stage]](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-28/issue-8/086002/Two-stage-classification-strategy-for-breast-cancer-diagnosis-using-ultrasound/10.1117/1.JBO.28.8.086002.full)
+[[Paper3: DOT + BIRADS]](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.202300483)
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Tackling mismatch errors</span>
 My thesis aims to solve practical problems in DOT breast imaging and to improve breast cancer diagnosis.
