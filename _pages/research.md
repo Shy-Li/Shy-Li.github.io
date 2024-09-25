@@ -9,7 +9,7 @@ classes: wide
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;"> Attention-based multiple instance learning for understanding Chronic Traumatic Encephalopathy (CTE)</span>
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">  A vision foundation model for neuropathology for advancing AI-driven neuropathological image analysis</span>
-<img src="/files/FM_figures" width="360" height="360" />  
+<img src="/files/FM_figures.png" width="360" height="360" />  
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;"> Deep Learning Analysis of Multi-modal Optical Imaging of Human Brain Tissue </span>
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;"> Deep learning registration of Polarization-Sensitive Optical Coherence Tomography (PS-OCT) and quantitative Birefringence Microscopy (qBRM) images</span>
