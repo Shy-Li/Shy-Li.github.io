@@ -9,7 +9,7 @@ classes: wide
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;"> Attention-based multiple instance learning for understanding Chronic Traumatic Encephalopathy (CTE)</span>
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">  A vision foundation model for neuropathology for advancing AI-driven neuropathological image analysis</span>
-<img src="/files/FM_figures.png" width="360" height="360" />  
+<img src="/files/FM_figures.png" width="540" height="360" />  
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;"> Deep Learning Analysis of Multi-modal Optical Imaging of Human Brain Tissue </span>
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;"> Deep learning registration of Polarization-Sensitive Optical Coherence Tomography (PS-OCT) and quantitative Birefringence Microscopy (qBRM) images</span>
@@ -20,7 +20,7 @@ classes: wide
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Multimodal data fusion for breast lesion classification</span>
 I have developed data fusion approaches to combine ultrasound, DOT, and radiologists' assessments for breast cancer diagnosis. The proposed two-stage approach can potentially distinguish breast cancers from benign lesions in near real-time.
 
-<img src="/files/DOT_multimodal.png" width="540" height="360" />  <img src="/files/DOT_BIRADS_thumbnail.png" width="540" height="360" />  
+<img src="/files/DOT_multimodal.png" width="480" height="300" /> <img src="/files/DOT_BIRADS_thumbnail.png" width="480" height="300" />  
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Tackling mismatch errors</span>
 My thesis aims to solve practical problems in DOT breast imaging and to improve breast cancer diagnosis.
