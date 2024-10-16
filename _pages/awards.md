@@ -5,6 +5,7 @@ layout: single
 author_profile: true
 classes: wide
 ---
+- __2024__ Best Poster Award (top 3), Northeast Symposium on Biomedical Optics
 - __2024__  Best poster award, Gordon research seminar, Gordon Research Seminar - Optics and Photonics in Medicine & Biology 
 - __2022__  Gordon research conference travel award ($600)
 - __2022__  Student Paper Award finalist, Optica Biophotonics Congress 2022 (top 4 in session)
