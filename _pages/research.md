@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 classes: wide
 ---
-As a researcher at the intersection of artificial intelligence (AI) and biomedical imaging, my work spans a broad spectrum of applications, from diagnosis to understanding disease mechanisms, focusing on cancer and neurodegenerative diseases (NDs). I leverage trustworthy AI to enhance the capabilities of both traditional and emerging imaging modalities by uncovering hidden patterns and integrating multimodal data. These efforts will deepen our understanding of diseases, aid in drug screening, and personalize treatment, thereby supporting clinical decision-making and improving patient outcomes.
+As a researcher working at the intersection of artificial intelligence (AI) and biomedical imaging, I focus on both diagnostic applications and the investigation of disease mechanisms, particularly in cancer and neurodegenerative diseases (NDs). My work leverages trustworthy AI to enhance traditional and novel imaging modalities, uncover hidden pathological patterns, and integrate multimodal data. These efforts support drug discovery, improve diagnostic precision, and inform personalized treatment decisions.
 
 <img src="/files/research_overview.png" width="600" height="360" /> 
 
@@ -14,21 +14,42 @@ As a researcher at the intersection of artificial intelligence (AI) and biomedic
 <img src="/files/ABMIL_AT8.png" width="600" height="300" />  
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">  A vision foundation model for neuropathology for advancing AI-driven neuropathological image analysis</span>
-I have developed a vision foundation model for neuropathology to advance AI-driven neuropathological image analysis. 
+I developed a vision foundation model to enable scalable and generalizable analysis of neuropathological images.
+
 <img src="/files/FM_figures.png" width="540" height="360" />  
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;"> Deep Learning Analysis of Multi-modal Optical Imaging of Human Brain Tissue </span>
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;"> Deep learning registration of Polarization-Sensitive Optical Coherence Tomography (PS-OCT) and quantitative Birefringence Microscopy (qBRM) images</span>
 <img src="/files/OCT_qBRM_reg.png" width="540" height="360" /> 
 
-# <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Diffuse Optical Tomography (DOT)</span>
+# <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Multimodal AI for breast cancer diagnosis</span>
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Multimodal data fusion for breast lesion classification</span>
-I have developed data fusion approaches to combine ultrasound, DOT, and radiologists' BIRADS assessments for breast cancer diagnosis. The proposed two-stage approach can potentially distinguish breast cancers from benign lesions in near real-time. [[Paper1: Two-stage]](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.202300483) [[code1]](https://github.com/OpticalUltrasoundImaging/DOT_two_stage) [[Paper2: DOT + BIRADS]](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-28/issue-8/086002/Two-stage-classification-strategy-for-breast-cancer-diagnosis-using-ultrasound/10.1117/1.JBO.28.8.086002.full) [[code2]](https://github.com/OpticalUltrasoundImaging/DOT_histo_SVM) [[Paper3: DOT + ultrasound]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-4-1636&id=528551) [[code3]](https://github.com/OpticalUltrasoundImaging/Fusion_model)
+I have developed data fusion approaches to combine ultrasound, Diffuse Optical Tomography (DOT), and radiologists' BIRADS assessments for breast cancer diagnosis. The proposed two-stage approach can potentially distinguish breast cancers from benign lesions in near real-time. [[Paper1: Two-stage]](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.202300483) [[code1]](https://github.com/OpticalUltrasoundImaging/DOT_two_stage) [[Paper2: DOT + BIRADS]](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-28/issue-8/086002/Two-stage-classification-strategy-for-breast-cancer-diagnosis-using-ultrasound/10.1117/1.JBO.28.8.086002.full) [[code2]](https://github.com/OpticalUltrasoundImaging/DOT_histo_SVM) [[Paper3: DOT + ultrasound]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-4-1636&id=528551) [[code3]](https://github.com/OpticalUltrasoundImaging/Fusion_model)
 
 <img src="/files/DOT_multimodal.png" width="450" height="270" /> <img src="/files/DOT_BIRADS_thumbnail.png" width="360" height="270" />  
 
+# <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">AI for Colorectal Cancer Diagnosis</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Human coloreactal cancer classification using deep learning and Optical coherence tomography (OCT)</span>
+Optical coherence tomography (OCT) can differentiate normal colonic mucosa from neoplasia, potentially offering a new mechanism of endoscopic tissue assessment and biopsy targeting, with a high optical resolution and an imaging depth of ~1 mm. I designed customized ResNet is utilized to classify OCT catheter colorectal images. An area under the receiver operating characteristic (ROC) curve (AUC) of 0.975 is achieved to distinguish between normal and cancerous colorectal tissue images.
+[[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202100349) [[Code]](https://github.com/Shy-Li/OCT_CNN)
 
+<img src="/files/OCT_colon.jpg" width="270" height="360" />  <img src="/files/OCT_colon2.jpg" width="480" height="360" />
+
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">AdaBoost-based multiwavelength Spatial Frequency Domain Imaging (SFDI) for human colorectal tissue assessment</span>
+
+Multiwavelength spatial frequency domain imaging (SFDI) can provide tissue optical absorption and scattering signatures, and would be able to differentiate various colorectal neoplasia from normal tissue. In this ex vivo study of human colorectal tissues, we trained an abnormal vs. normal adaptive boosting (AdaBoost) classifier to dichotomize tissue based on SFDI imaging characteristics, and an area under the receiver operating characteristic (ROC) curve (AUC) of 0.95 is achieved. 
+[[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.201960241)
+
+<img src="/files/SFDI_colon.jpg" width="240" height="320" />  <img src="/files/SFDI_colon2.jpg" width="500" height="320" />
+
+# <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">AI for Improving Image Quatlity</span>
+
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Machine learning with physical constrains for DOT reconstruction</span>
+We trained an Autoencoder-based machine learning model with physical constraints (ML-PC) to perform diffuse optical tomography (DOT) reconstruction. Our method has two key components: (i) a neural network based on an auto-encoder is adopted for DOT reconstruction, and (ii) physical constraints are implemented to achieve accurate reconstruction. Both qualitative and quantitative results demonstrate that the accuracy of the proposed method surpasses that of existing models.
+[[Paper]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-9-5720&id=458081)
+
+<img src="/files/ML_PC.jpg"  width="600" height="210" />
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Tackling mismatch errors</span>
 My thesis aims to solve practical problems in DOT breast imaging and to improve breast cancer diagnosis.
 Our lab uses Ultrasound (US)-guided DOT to probe tissue optical properties i.e. optical absorption, oxygenated and deoxygenated hemoglobin concertation for breast cancer diagnosis and treatment monitoring. However, imaging artifacts can  appear due to mismatches between the two side breasts in tissue curvature, tissue heterogeneity, the depth and angle of the chest wall underneath the breast tissue, and source or detector (optode) coupling. During patient studies, these errors can all cause misinterpretation of lesion images. I proposed two algorithms to mitigate probe-tissue contact problems and reduce image artifacts. 
@@ -37,7 +58,6 @@ Our lab uses Ultrasound (US)-guided DOT to probe tissue optical properties i.e. 
 [[Paper2: Ultrasound-guided edge artifact reduction]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-2-689&id=445667)
 
 <img src="/files/coupling_error_thumbnail.jpg" width="360" height="360" />  <img src="/files/2021_edge_artifact_thumbnail.jpg" width="360" height="360" />
-
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Difference imaging from single measurements</span>
 “Difference imaging”, which reconstructs target optical properties using measurements with and without target information, is often used in DOT in vivo imaging. However, taking additional reference measurements is time-consuming, and mismatches between the target medium and the reference medium can cause inaccurate reconstruction. I designed a multi-layer perceptron (MLP) to output data for difference imaging from target measurements only. The model is trained and validated on simulation data and tested with simulations, phantom experiments, and clinical data from 56 patients with breast lesions. It can simplify the data acquisition procedure, mitigate mismatch problems, and improve reconstructed image quality in DOT difference imaging. 
@@ -53,33 +73,9 @@ In general, image reconstruction methods used in diffuse optical tomography (DOT
 <img src="/files/JBO_26_10_106004_f002.png"  width="600" height="140" />
 <img src="/files/JBO_26_10_106004_f009.png"  width="600" height="470" />
 
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Machine learning with physical constrains for DOT reconstruction</span>
-We trained an Autoencoder-based machine learning model with physical constraints (ML-PC) to perform diffuse optical tomography (DOT) reconstruction. Our method has two key components: (i) a neural network based on an auto-encoder is adopted for DOT reconstruction, and (ii) physical constraints are implemented to achieve accurate reconstruction. Both qualitative and quantitative results demonstrate that the accuracy of the proposed method surpasses that of existing models.
-[[Paper]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-9-5720&id=458081)
-
-<img src="/files/ML_PC.jpg"  width="600" height="210" />
-
-# <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Optical Coherence Tomography (OCT)</span>
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Human coloreactal cancer classification using deep learning and OCT</span>
-Optical coherence tomography (OCT) can differentiate normal colonic mucosa from neoplasia, potentially offering a new mechanism of endoscopic tissue assessment and biopsy targeting, with a high optical resolution and an imaging depth of ~1 mm. I designed customized ResNet is utilized to classify OCT catheter colorectal images. An area under the receiver operating characteristic (ROC) curve (AUC) of 0.975 is achieved to distinguish between normal and cancerous colorectal tissue images.
-[[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202100349) [[Code]](https://github.com/Shy-Li/OCT_CNN)
-
-<img src="/files/OCT_colon.jpg" width="270" height="360" />  <img src="/files/OCT_colon2.jpg" width="480" height="360" />
 
 
-# <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Spatial Frequency Domain Imaging (SFDI)</span>
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">AdaBoost-based multiwavelength SFDI for human colorectal tissue assessment</span>
 
-Multiwavelength spatial frequency domain imaging (SFDI) can provide tissue optical absorption and scattering signatures, and would be able to differentiate various colorectal neoplasia from normal tissue. In this ex vivo study of human colorectal tissues, we trained an abnormal vs. normal adaptive boosting (AdaBoost) classifier to dichotomize tissue based on SFDI imaging characteristics, and an area under the receiver operating characteristic (ROC) curve (AUC) of 0.95 is achieved. 
-[[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.201960241)
-
-<img src="/files/SFDI_colon.jpg" width="240" height="320" />  <img src="/files/SFDI_colon2.jpg" width="500" height="320" />
-
-
-# <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Image-guided Photo-mediated Ultrasound Therapy</span>
-Simultaneously applied laser and ultrasound treat neovascularization in rabbit eyes guided by OCT & photoacoustic microscopy (PAM).
-Simulated bubble dynamics under simultaneous laser & ultrasound and validated the simulations with experiments on tubes filled with blood.
-[[Paper]](https://iopscience.iop.org/article/10.1088/1361-6560/aac7bc/meta)
 
 
 
