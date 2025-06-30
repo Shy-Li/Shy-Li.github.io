@@ -7,7 +7,7 @@ classes: wide
 ---
 As a researcher working at the intersection of artificial intelligence (AI) and biomedical imaging, I focus on both diagnostic applications and the investigation of disease mechanisms, particularly in cancer and neurodegenerative diseases (NDs). My work leverages trustworthy AI to enhance traditional and novel imaging modalities, uncover hidden pathological patterns, and integrate multimodal data. These efforts support drug discovery, improve diagnostic precision, and inform personalized treatment decisions.
 
-<img src="/files/research_overview.png" width="600" height="360" /> 
+<img src="/files/research_overview.png" width="900" height="540" /> 
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;"> AI for Neuropathology </span>
 Neuropathologic studies using postmortem human samples have been central to neurodegenerative disease (ND) research, but they face critical limitations: diagnoses rely on time-consuming, subjective human interpretation; heterogeneity across patients demands large case volumes; and subtle disease-related changes are often missed. These factors limit both scalability and reproducibility. To address this, I developed data-efficient AI models that support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. 
