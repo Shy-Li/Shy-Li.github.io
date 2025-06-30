@@ -8,7 +8,6 @@ classes: wide
 As a researcher working at the intersection of artificial intelligence (AI) and biomedical imaging, I focus on both diagnostic applications and the investigation of disease mechanisms, particularly in cancer and neurodegenerative diseases (NDs). My work leverages trustworthy AI to enhance traditional and novel imaging modalities, uncover hidden pathological patterns, and integrate multimodal data. These efforts support drug discovery, improve diagnostic precision, and inform personalized treatment decisions.
 
 <img src="/files/research_overview.png" width="1000" height="600" /> 
-
 # <span style="color:black; font-family:Arial, sans-serif; font-size: 20px;"> AI for Neuropathology </span>
 I develop data-efficient AI models that support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. 
 
@@ -16,19 +15,15 @@ I develop data-efficient AI models that support large-scale, quantitative analys
 I developed data-efficient deep learning models trained with only slide-level supervision to extract biologically meaningful features from neuropathology images. The model generated attention maps that highlighted structural changes linked to tau aggregation, revealing subtle patterns often missed by manual review. These tools support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. 
 
 <img src="/files/ABMIL_AT8.png" width="480" height="270" />  
-
 ## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;">  A vision foundation model for neuropathology for advancing AI-driven neuropathological image analysis</span>
 I am developing the first neuropathology-specific foundation model leveraging the world’s largest digital neuropathology database, aiming to fully unlock the potential of AI-based analysis in advancing our understanding of NDs.  
 
 <img src="/files/FM_figures.png" width="480" height="320" />  
-
 # <span style="color:black; font-family:Arial, sans-serif; font-size: 20px;"> AI Analysis of Multi-modal Optical Imaging of Human Brain Tissue </span>
 ## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Self-supervised registration of Polarization-Sensitive Optical Coherence Tomography (PS-OCT) and quantitative Birefringence Microscopy (qBRM) images</span>
 I developed a self-supervised registration framework to align PS-OCT and qBRM images without requiring paired ground truth. This approach leverages intrinsic structural consistency across modalities to learn accurate spatial correspondence in a data-efficient manner. 
 
 <img src="/files/OCT_qBRM_reg.png" width="480" height="320" /> 
-
-
 # <span style="color:black; font-family:Arial, sans-serif; font-size: 20px;">Multimodal AI for breast cancer diagnosis</span>
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Multimodal data fusion for breast lesion classification</span>
