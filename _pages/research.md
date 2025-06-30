@@ -15,7 +15,7 @@ I develop data-efficient AI models that support large-scale, quantitative analys
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;"> Attention-based weakly-supervised AI for understanding Chronic Traumatic Encephalopathy (CTE)</span>
 I developed data-efficient deep learning models trained with only slide-level supervision to extract biologically meaningful features from neuropathology images. The model generated attention maps that highlighted structural changes linked to tau aggregation, revealing subtle patterns often missed by manual review. These tools support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. 
 
-<img src="/files/ABMIL_AT8.png" width="480" height="300" />  
+<img src="/files/ABMIL_AT8.png" width="480" height="270" />  
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">  A vision foundation model for neuropathology for advancing AI-driven neuropathological image analysis</span>
 I am developing the first neuropathology-specific foundation model leveraging the world’s largest digital neuropathology database, aiming to fully unlock the potential of AI-based analysis in advancing our understanding of NDs.  
