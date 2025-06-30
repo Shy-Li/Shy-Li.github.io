@@ -43,35 +43,20 @@ Multiwavelength spatial frequency domain imaging (SFDI) can provide tissue optic
 
 <img src="/files/SFDI_colon.jpg" width="240" height="320" />  <img src="/files/SFDI_colon2.jpg" width="500" height="320" />
 
-# <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">AI for Improving Image Quatlity</span>
+# <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">AI-Based Image Reconstruction and Quality Enhancement</span>
 
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Machine learning with physical constrains for DOT reconstruction</span>
-We trained an Autoencoder-based machine learning model with physical constraints (ML-PC) to perform diffuse optical tomography (DOT) reconstruction. Our method has two key components: (i) a neural network based on an auto-encoder is adopted for DOT reconstruction, and (ii) physical constraints are implemented to achieve accurate reconstruction. Both qualitative and quantitative results demonstrate that the accuracy of the proposed method surpasses that of existing models.
-[[Paper]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-9-5720&id=458081)
+Optical imaging like Diffuse Optical Tomography (DOT) offers label-free, radiation-free, and cost-effective solutions for biomedical applications, but its clinical translation has been slowed by long acquisition times, lengthy reconstruction, and inconsistent image quality. To address these limitations, I developed AI-based methods that enhance both image acquisition and reconstruction. I built deep learning models, including physics-informed neural networks (PINNs), that accelerate data acquisition, suppress image artifacts, and improve reconstruction speed and accuracy. Collectively, these advances make optical imaging more robust, efficient, and suitable for clinical use.
 
 <img src="/files/ML_PC.jpg"  width="600" height="210" />
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Tackling mismatch errors</span>
-My thesis aims to solve practical problems in DOT breast imaging and to improve breast cancer diagnosis.
-Our lab uses Ultrasound (US)-guided DOT to probe tissue optical properties i.e. optical absorption, oxygenated and deoxygenated hemoglobin concertation for breast cancer diagnosis and treatment monitoring. However, imaging artifacts can  appear due to mismatches between the two side breasts in tissue curvature, tissue heterogeneity, the depth and angle of the chest wall underneath the breast tissue, and source or detector (optode) coupling. During patient studies, these errors can all cause misinterpretation of lesion images. I proposed two algorithms to mitigate probe-tissue contact problems and reduce image artifacts. 
-
-[[Paper1: Correction of optode coupling errors]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5320&id=453847)  
-[[Paper2: Ultrasound-guided edge artifact reduction]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-2-689&id=445667)
 
 <img src="/files/coupling_error_thumbnail.jpg" width="360" height="360" />  <img src="/files/2021_edge_artifact_thumbnail.jpg" width="360" height="360" />
 
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Difference imaging from single measurements</span>
-“Difference imaging”, which reconstructs target optical properties using measurements with and without target information, is often used in DOT in vivo imaging. However, taking additional reference measurements is time-consuming, and mismatches between the target medium and the reference medium can cause inaccurate reconstruction. I designed a multi-layer perceptron (MLP) to output data for difference imaging from target measurements only. The model is trained and validated on simulation data and tested with simulations, phantom experiments, and clinical data from 56 patients with breast lesions. It can simplify the data acquisition procedure, mitigate mismatch problems, and improve reconstructed image quality in DOT difference imaging. 
-[[Paper]](https://doi.org/10.1117/1.JBO.27.8.086003) [[Code]](https://github.com/Shy-Li/DOT_pert_generation)
+[[Paper1]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-9-5720&id=458081)
+[[Paper2: Correction of optode coupling errors]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5320&id=453847)  
+[[Paper3: Ultrasound-guided edge artifact reduction]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-2-689&id=445667)
+[[Paper4](https://doi.org/10.1117/1.JBO.27.8.086003) [[Code]](https://github.com/Shy-Li/DOT_pert_generation)
+[[Paper5](https://doi.org/10.1117/1.JBO.26.10.106004)
 
-<img src="/files/2022JBO.jpg"  width="480" height="480" />
-
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">CNN for accurately estimating breast tissue optical properties</span>
-
-In general, image reconstruction methods used in diffuse optical tomography (DOT) are based on diffusion approximation, and they consider the breast tissue as a homogenous, semi-infinite medium. However, the semi-infinite medium assumption used in DOT reconstruction is not valid when the chest wall is underneath the breast tissue. We propose a deep learning-based neural network approach where a convolution neural network (CNN) is trained to simultaneously obtain accurate optical property values for both the breast tissue and the chest wall. The CNN model shows great promise in reducing errors in estimating the optical properties of the breast tissue in the presence of a shallow chest wall. 
-[[Paper]](https://doi.org/10.1117/1.JBO.26.10.106004)
-
-<img src="/files/JBO_26_10_106004_f002.png"  width="600" height="140" />
-<img src="/files/JBO_26_10_106004_f009.png"  width="600" height="470" />
 
 
 
