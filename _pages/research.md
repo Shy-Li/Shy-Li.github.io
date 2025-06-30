@@ -9,9 +9,9 @@ As a researcher working at the intersection of artificial intelligence (AI) and 
 
 <img src="/files/research_overview.png" width="1000" height="600" /> 
 
-# <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;"> AI for Neuropathology </span>
+# <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;"> AI-driven Understand of Neurodegenerative Diseases from  Human Brain Tissue Imaging</span>
 I develop data-efficient AI models that support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. 
-## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Attention-based weakly-supervised AI for understanding Chronic Traumatic Encephalopathy (CTE)</span>
+## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Attention-based weakly-supervised AI for understanding neurodegenerative diseases</span>
 I developed data-efficient deep learning models trained with only slide-level supervision to extract biologically meaningful features from neuropathology images. The model generated attention maps that highlighted structural changes linked to tau aggregation, revealing subtle patterns often missed by manual review. These tools support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. 
 
 <img src="/files/ABMIL_AT8.png" width="480" height="270" />  
@@ -21,7 +21,6 @@ I am developing the first neuropathology-specific foundation model leveraging th
 
 <img src="/files/FM_figures.png" width="480" height="320" />  
 
-# <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;"> AI Analysis of Multi-modal Optical Imaging of Human Brain Tissue </span>
 ## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Self-supervised registration of Polarization-Sensitive Optical Coherence Tomography (PS-OCT) and quantitative Birefringence Microscopy (qBRM) images</span>
 I developed a self-supervised registration framework to align PS-OCT and qBRM images without requiring paired ground truth. This approach leverages intrinsic structural consistency across modalities to learn accurate spatial correspondence in a data-efficient manner. 
 
