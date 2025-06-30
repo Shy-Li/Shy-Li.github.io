@@ -27,13 +27,12 @@ I developed a self-supervised registration framework to align PS-OCT and qBRM im
 <img src="/files/OCT_qBRM_reg.png" width="480" height="320" /> 
 
 # <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;">Multimodal AI for breast cancer diagnosis
-## <span style="color:teal; font-family:Arial, sans-serif;font-size: 22px;">Multimodal data fusion for breast lesion classification
 I have developed data fusion approaches to combine ultrasound, Diffuse Optical Tomography (DOT), and radiologists' BIRADS assessments for breast cancer diagnosis. The proposed two-stage approach can potentially distinguish breast cancers from benign lesions in near real-time. [[Paper1: Two-stage]](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.202300483) [[code1]](https://github.com/OpticalUltrasoundImaging/DOT_two_stage) [[Paper2: DOT + BIRADS]](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-28/issue-8/086002/Two-stage-classification-strategy-for-breast-cancer-diagnosis-using-ultrasound/10.1117/1.JBO.28.8.086002.full) [[code2]](https://github.com/OpticalUltrasoundImaging/DOT_histo_SVM) [[Paper3: DOT + ultrasound]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-4-1636&id=528551) [[code3]](https://github.com/OpticalUltrasoundImaging/Fusion_model)
 
 <img src="/files/DOT_multimodal.png" width="350" height="200" /> <img src="/files/DOT_BIRADS_thumbnail.png" width="280" height="200" />  
 
 # <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;">AI for Colorectal Cancer Diagnosis
-## <span style="color:teal; font-family:Arial, sans-serif; font-size: 22px;">Human coloreactal cancer classification using deep learning and Optical coherence tomography (OCT)
+## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;">Human coloreactal cancer classification using deep learning and Optical coherence tomography (OCT)
 Optical coherence tomography (OCT) can differentiate normal colonic mucosa from neoplasia, potentially offering a new mechanism of endoscopic tissue assessment and biopsy targeting, with a high optical resolution and an imaging depth of ~1 mm. I designed a customized ResNet to classify OCT catheter colorectal images. An area under the receiver operating characteristic (ROC) curve (AUC) of 0.975 is achieved to distinguish between normal and cancerous colorectal tissue images.
 [[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202100349) [[Code]](https://github.com/Shy-Li/OCT_CNN)
 
