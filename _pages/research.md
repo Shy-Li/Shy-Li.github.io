@@ -52,7 +52,7 @@ Optical imaging like Diffuse Optical Tomography (DOT) offers label-free, radiati
 
 <img src="/files/coupling_error_thumbnail.jpg" width="240" height="240" />  <img src="/files/2021_edge_artifact_thumbnail.jpg" width="240" height="240" />
 
-[[Paper1]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-9-5720&id=458081)
+[[Paper1:Machine learning model with physical constraints for image reconstruction]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-9-5720&id=458081)
 
 [[Paper2: Correction of optode coupling errors]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5320&id=453847)  
 
