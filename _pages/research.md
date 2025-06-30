@@ -17,7 +17,7 @@ I developed data-efficient deep learning models trained with only slide-level su
 
 <img src="/files/ABMIL_AT8.png" width="480" height="270" />  
 
-## <span style="color:teal; font-family:Arial, sans-serif; font-size: 160px;">  A vision foundation model for neuropathology for advancing AI-driven neuropathological image analysis</span>
+## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;">  A vision foundation model for neuropathology for advancing AI-driven neuropathological image analysis</span>
 I am developing the first neuropathology-specific foundation model leveraging the world’s largest digital neuropathology database, aiming to fully unlock the potential of AI-based analysis in advancing our understanding of NDs.  
 
 <img src="/files/FM_figures.png" width="480" height="320" />  
