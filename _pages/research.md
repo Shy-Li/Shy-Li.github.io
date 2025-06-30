@@ -9,9 +9,9 @@ As a researcher working at the intersection of artificial intelligence (AI) and 
 
 <img src="/files/research_overview.png" width="1000" height="600" /> 
 
-# <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;"> AI-driven Understanding of Neurodegenerative Diseases from Human Brain Tissue Imaging </span>
+# <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;"> AI-driven Understanding of Neurodegenerative Diseases from Human Brain Tissue Imaging 
 I develop data-efficient AI models that support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. 
-## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Attention-based weakly-supervised AI for understanding neurodegenerative diseases</span>
+## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Attention-based weakly-supervised AI for understanding neurodegenerative diseases
 I developed data-efficient deep learning models trained with only slide-level supervision to extract biologically meaningful features from neuropathology images. The model generated attention maps that highlighted structural changes linked to tau aggregation, revealing subtle patterns often missed by manual review. These tools support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. 
 
 <img src="/files/ABMIL_AT8.png" width="480" height="270" />  
