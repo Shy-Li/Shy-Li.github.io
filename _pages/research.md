@@ -15,18 +15,18 @@ Neuropathologic studies using postmortem human samples have been central to neur
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;"> Attention-based weakly-supervised AI for understanding Chronic Traumatic Encephalopathy (CTE)</span>
 I developed data-efficient deep learning models trained with only slide-level supervision to extract biologically meaningful features from neuropathology images. The model generated attention maps that highlighted structural changes linked to tau aggregation, revealing subtle patterns often missed by manual review. These tools support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. 
 
-<img src="/files/ABMIL_AT8.png" width="600" height="300" />  
+<img src="/files/ABMIL_AT8.png" width="400" height="200" />  
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">  A vision foundation model for neuropathology for advancing AI-driven neuropathological image analysis</span>
 I am developing the first neuropathology-specific foundation model,  NeuroPath, leveraging the world’s largest digital neuropathology database. By doing so, we will fully unlock the potential of AI-based analysis in advancing our understanding of NDs.  
 
-<img src="/files/FM_figures.png" width="540" height="360" />  
+<img src="/files/FM_figures.png" width="480" height="320" />  
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;"> AI Analysis of Multi-modal Optical Imaging of Human Brain Tissue </span>
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;"> Self-supervised registration of Polarization-Sensitive Optical Coherence Tomography (PS-OCT) and quantitative Birefringence Microscopy (qBRM) images</span>
 I developed a self-supervised registration framework to align PS-OCT and qBRM images without requiring paired ground truth. This approach leverages intrinsic structural consistency across modalities to learn accurate spatial correspondence in a data-efficient manner. 
 
-<img src="/files/OCT_qBRM_reg.png" width="540" height="360" /> 
+<img src="/files/OCT_qBRM_reg.png" width="480" height="320" /> 
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Multimodal AI for breast cancer diagnosis</span>
 
@@ -53,7 +53,7 @@ Multiwavelength spatial frequency domain imaging (SFDI) can provide tissue optic
 
 Optical imaging like Diffuse Optical Tomography (DOT) offers label-free, radiation-free, and cost-effective solutions for biomedical applications, but its clinical translation has been slowed by long acquisition times, lengthy reconstruction, and inconsistent image quality. To address these limitations, I developed AI-based methods that enhance both image acquisition and reconstruction. I built deep learning models, including physics-informed neural networks (PINNs), that accelerate data acquisition, suppress image artifacts, and improve reconstruction speed and accuracy. Collectively, these advances make optical imaging more robust, efficient, and suitable for clinical use.
 
-<img src="/files/coupling_error_thumbnail.jpg" width="360" height="360" />  <img src="/files/2021_edge_artifact_thumbnail.jpg" width="360" height="360" />
+<img src="/files/coupling_error_thumbnail.jpg" width="320" height="320" />  <img src="/files/2021_edge_artifact_thumbnail.jpg" width="320" height="320" />
 
 [[Paper1]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-9-5720&id=458081)
 
