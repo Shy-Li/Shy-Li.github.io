@@ -11,7 +11,6 @@ As a researcher working at the intersection of artificial intelligence (AI) and 
 
 # <span style="color:black; font-family:Arial, sans-serif; font-size: 20px;"> AI for Neuropathology </span>
 I develop data-efficient AI models that support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. 
-
 ## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Attention-based weakly-supervised AI for understanding Chronic Traumatic Encephalopathy (CTE)</span>
 I developed data-efficient deep learning models trained with only slide-level supervision to extract biologically meaningful features from neuropathology images. The model generated attention maps that highlighted structural changes linked to tau aggregation, revealing subtle patterns often missed by manual review. These tools support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. 
 
