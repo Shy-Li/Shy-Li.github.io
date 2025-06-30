@@ -15,7 +15,7 @@ I develop data-efficient AI models that support large-scale, quantitative analys
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;"> Attention-based weakly-supervised AI for understanding Chronic Traumatic Encephalopathy (CTE)</span>
 I developed data-efficient deep learning models trained with only slide-level supervision to extract biologically meaningful features from neuropathology images. The model generated attention maps that highlighted structural changes linked to tau aggregation, revealing subtle patterns often missed by manual review. These tools support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. 
 
-<img src="/files/ABMIL_AT8.png" width="400" height="200" />  
+<img src="/files/ABMIL_AT8.png" width="480" height="320" />  
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">  A vision foundation model for neuropathology for advancing AI-driven neuropathological image analysis</span>
 I am developing the first neuropathology-specific foundation model leveraging the world’s largest digital neuropathology database, aiming to fully unlock the potential of AI-based analysis in advancing our understanding of NDs.  
@@ -40,7 +40,7 @@ I have developed data fusion approaches to combine ultrasound, Diffuse Optical T
 Optical coherence tomography (OCT) can differentiate normal colonic mucosa from neoplasia, potentially offering a new mechanism of endoscopic tissue assessment and biopsy targeting, with a high optical resolution and an imaging depth of ~1 mm. I designed a customized ResNet to classify OCT catheter colorectal images. An area under the receiver operating characteristic (ROC) curve (AUC) of 0.975 is achieved to distinguish between normal and cancerous colorectal tissue images.
 [[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202100349) [[Code]](https://github.com/Shy-Li/OCT_CNN)
 
-<img src="/files/OCT_colon.jpg" width="240" height="320" />  <img src="/files/OCT_colon2.jpg" width="400" height="300" />
+<img src="/files/OCT_colon.jpg" width="200" height="280" />  <img src="/files/OCT_colon2.jpg" width="360" height="280" />
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">AdaBoost-based multiwavelength Spatial Frequency Domain Imaging (SFDI) for human colorectal tissue assessment</span>
 
