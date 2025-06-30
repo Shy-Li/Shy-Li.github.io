@@ -52,8 +52,8 @@ Optical imaging like Diffuse Optical Tomography (DOT) offers label-free, radiati
 <img src="/files/coupling_error_thumbnail.jpg" width="360" height="360" />  <img src="/files/2021_edge_artifact_thumbnail.jpg" width="360" height="360" />
 
 [[Paper1]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-9-5720&id=458081)
-[[Paper2]]Correction of optode coupling errors]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5320&id=453847)  
-[[Paper3]]Ultrasound-guided edge artifact reduction]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-2-689&id=445667)
+[[Paper2: Correction of optode coupling errors]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5320&id=453847)  
+[[Paper3: Ultrasound-guided edge artifact reduction]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-2-689&id=445667)
 [[Paper4]](https://doi.org/10.1117/1.JBO.27.8.086003) [[Code]](https://github.com/Shy-Li/DOT_pert_generation)
 [[Paper5]](https://doi.org/10.1117/1.JBO.26.10.106004)
 
