@@ -28,6 +28,7 @@ I developed a self-supervised registration framework to align PS-OCT and qBRM im
 
 <img src="/files/OCT_qBRM_reg.png" width="480" height="320" /> 
 
+
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Multimodal AI for breast cancer diagnosis</span>
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Multimodal data fusion for breast lesion classification</span>
@@ -35,19 +36,20 @@ I have developed data fusion approaches to combine ultrasound, Diffuse Optical T
 
 <img src="/files/DOT_multimodal.png" width="400" height="240" /> <img src="/files/DOT_BIRADS_thumbnail.png" width="320" height="240" />  
 
+
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">AI for Colorectal Cancer Diagnosis</span>
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">Human coloreactal cancer classification using deep learning and Optical coherence tomography (OCT)</span>
 Optical coherence tomography (OCT) can differentiate normal colonic mucosa from neoplasia, potentially offering a new mechanism of endoscopic tissue assessment and biopsy targeting, with a high optical resolution and an imaging depth of ~1 mm. I designed a customized ResNet to classify OCT catheter colorectal images. An area under the receiver operating characteristic (ROC) curve (AUC) of 0.975 is achieved to distinguish between normal and cancerous colorectal tissue images.
 [[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202100349) [[Code]](https://github.com/Shy-Li/OCT_CNN)
 
-<img src="/files/OCT_colon.jpg" width="200" height="280" />  <img src="/files/OCT_colon2.jpg" width="360" height="280" />
+<img src="/files/OCT_colon.jpg" width="180" height="240" />  <img src="/files/OCT_colon2.jpg" width="300" height="240" />
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">AdaBoost-based multiwavelength Spatial Frequency Domain Imaging (SFDI) for human colorectal tissue assessment</span>
 
 Multiwavelength spatial frequency domain imaging (SFDI) can provide tissue optical absorption and scattering signatures, and would be able to differentiate various colorectal neoplasia from normal tissue. In this ex vivo study of human colorectal tissues, we trained an abnormal vs. normal adaptive boosting (AdaBoost) classifier to dichotomize tissue based on SFDI imaging characteristics.
 [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.201960241)
 
-<img src="/files/SFDI_colon.jpg" width="210" height="280" />  <img src="/files/SFDI_colon2.jpg" width="440" height="280" />
+<img src="/files/SFDI_colon.jpg" width="180" height="240" />  <img src="/files/SFDI_colon2.jpg" width="360" height="240" />
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">AI-Based Image Reconstruction and Quality Enhancement</span>
 
