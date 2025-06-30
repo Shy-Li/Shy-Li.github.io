@@ -40,14 +40,14 @@ I have developed data fusion approaches to combine ultrasound, Diffuse Optical T
 Optical coherence tomography (OCT) can differentiate normal colonic mucosa from neoplasia, potentially offering a new mechanism of endoscopic tissue assessment and biopsy targeting, with a high optical resolution and an imaging depth of ~1 mm. I designed customized ResNet is utilized to classify OCT catheter colorectal images. An area under the receiver operating characteristic (ROC) curve (AUC) of 0.975 is achieved to distinguish between normal and cancerous colorectal tissue images.
 [[Paper]](https://onlinelibrary.wiley.com/doi/10.1002/jbio.202100349) [[Code]](https://github.com/Shy-Li/OCT_CNN)
 
-<img src="/files/OCT_colon.jpg" width="240" height="320" />  <img src="/files/OCT_colon2.jpg" width="440" height="300" />
+<img src="/files/OCT_colon.jpg" width="240" height="320" />  <img src="/files/OCT_colon2.jpg" width="400" height="300" />
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">AdaBoost-based multiwavelength Spatial Frequency Domain Imaging (SFDI) for human colorectal tissue assessment</span>
 
 Multiwavelength spatial frequency domain imaging (SFDI) can provide tissue optical absorption and scattering signatures, and would be able to differentiate various colorectal neoplasia from normal tissue. In this ex vivo study of human colorectal tissues, we trained an abnormal vs. normal adaptive boosting (AdaBoost) classifier to dichotomize tissue based on SFDI imaging characteristics, and an area under the receiver operating characteristic (ROC) curve (AUC) of 0.95 is achieved. 
 [[Paper]](https://onlinelibrary.wiley.com/doi/abs/10.1002/jbio.201960241)
 
-<img src="/files/SFDI_colon.jpg" width="240" height="320" />  <img src="/files/SFDI_colon2.jpg" width="500" height="320" />
+<img src="/files/SFDI_colon.jpg" width="210" height="280" />  <img src="/files/SFDI_colon2.jpg" width="440" height="280" />
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">AI-Based Image Reconstruction and Quality Enhancement</span>
 
