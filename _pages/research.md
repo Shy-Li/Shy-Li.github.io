@@ -12,7 +12,7 @@ As a researcher working at the intersection of artificial intelligence (AI) and 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;"> AI for Neuropathology </span>
 Neuropathologic studies using postmortem human samples have been central to neurodegenerative disease (ND) research, but they face critical limitations: diagnoses rely on time-consuming, subjective human interpretation; heterogeneity across patients demands large case volumes; and subtle disease-related changes are often missed. These factors limit both scalability and reproducibility. To address this, I developed data-efficient AI models that support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. 
 
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;"> Attention-based multiple instance learning for understanding Chronic Traumatic Encephalopathy (CTE)</span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;"> Attention-based weakly-supervised AI for understanding Chronic Traumatic Encephalopathy (CTE)</span>
 I developed data-efficient deep learning models trained with only slide-level supervision to extract biologically meaningful features from neuropathology images. The model generated attention maps that highlighted structural changes linked to tau aggregation, revealing subtle patterns often missed by manual review. These tools support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. 
 
 <img src="/files/ABMIL_AT8.png" width="600" height="300" />  
@@ -22,8 +22,10 @@ I am developing the first neuropathology-specific foundation model,  NeuroPath, 
 
 <img src="/files/FM_figures.png" width="540" height="360" />  
 
-# <span style="color:black; font-family:Comic Sans MS;font-size: 25px;"> Deep Learning Analysis of Multi-modal Optical Imaging of Human Brain Tissue </span>
-## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;"> Deep learning registration of Polarization-Sensitive Optical Coherence Tomography (PS-OCT) and quantitative Birefringence Microscopy (qBRM) images</span>
+# <span style="color:black; font-family:Comic Sans MS;font-size: 25px;"> AI Analysis of Multi-modal Optical Imaging of Human Brain Tissue </span>
+## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;"> Self-supervised registration of Polarization-Sensitive Optical Coherence Tomography (PS-OCT) and quantitative Birefringence Microscopy (qBRM) images</span>
+I developed a self-supervised registration framework to align PS-OCT and qBRM images without requiring paired ground truth. This approach leverages intrinsic structural consistency across modalities to learn accurate spatial correspondence in a data-efficient manner. 
+
 <img src="/files/OCT_qBRM_reg.png" width="540" height="360" /> 
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;">Multimodal AI for breast cancer diagnosis</span>
