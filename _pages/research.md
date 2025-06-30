@@ -10,11 +10,15 @@ As a researcher working at the intersection of artificial intelligence (AI) and 
 <img src="/files/research_overview.png" width="600" height="360" /> 
 
 # <span style="color:black; font-family:Comic Sans MS;font-size: 25px;"> Deep Learning for Neuropathology </span>
+Neuropathologic studies using postmortem human samples have been central to neurodegenerative disease (ND) research, but they face critical limitations: diagnoses rely on time-consuming, subjective human interpretation; heterogeneity across patients demands large case volumes; and subtle disease-related changes are often missed. These factors limit both scalability and reproducibility.
+To address this, I developed data-efficient deep learning models trained with only slide-level supervision to extract biologically meaningful features from neuropathology images. In recent work, I trained a model to predict phosphorylated tau (AT8) density from LHE-stained brain slides. The model generated attention maps that highlighted structural changes linked to tau aggregation, revealing subtle patterns often missed by manual review. I am also building a generalizable foundation model specifically for neuropathology. Together, these tools support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. 
+
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;"> Attention-based multiple instance learning for understanding Chronic Traumatic Encephalopathy (CTE)</span>
+I developed data-efficient deep learning models trained with only slide-level supervision to extract biologically meaningful features from neuropathology images. The model generated attention maps that highlighted structural changes linked to tau aggregation, revealing subtle patterns often missed by manual review. These tools support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. 
+
 <img src="/files/ABMIL_AT8.png" width="600" height="300" />  
 
 ## <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">  A vision foundation model for neuropathology for advancing AI-driven neuropathological image analysis</span>
-I developed a vision foundation model to enable scalable and generalizable analysis of neuropathological images.
 
 <img src="/files/FM_figures.png" width="540" height="360" />  
 
@@ -52,9 +56,13 @@ Optical imaging like Diffuse Optical Tomography (DOT) offers label-free, radiati
 <img src="/files/coupling_error_thumbnail.jpg" width="360" height="360" />  <img src="/files/2021_edge_artifact_thumbnail.jpg" width="360" height="360" />
 
 [[Paper1]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-9-5720&id=458081)
+
 [[Paper2: Correction of optode coupling errors]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-8-5320&id=453847)  
+
 [[Paper3: Ultrasound-guided edge artifact reduction]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-12-2-689&id=445667)
+
 [[Paper4]](https://doi.org/10.1117/1.JBO.27.8.086003) [[Code]](https://github.com/Shy-Li/DOT_pert_generation)
+
 [[Paper5]](https://doi.org/10.1117/1.JBO.26.10.106004)
 
 
