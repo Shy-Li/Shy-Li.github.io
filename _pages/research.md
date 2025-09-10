@@ -8,6 +8,30 @@ classes: wide
 As a researcher working at the intersection of artificial intelligence (AI) and biomedical imaging, I focus on both diagnostic applications and the investigation of disease mechanisms, particularly in cancer and neurodegenerative diseases (NDs). My work leverages trustworthy AI to enhance traditional and novel imaging modalities, uncover hidden pathological patterns, and integrate multimodal data. These efforts support drug discovery, improve diagnostic precision, and inform personalized treatment decisions.
 
 <img src="/files/research_overview.png" width="1000" height="600" /> 
+# <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;"> AI-driven Understanding of the Brain 
+I established computational frameworks that support large-scale, quantitative analysis of neurodegenerative disease pathology, open opportunities to identify novel tissue-level markers of disease progression, and broaden exploration in systems neuroscience.
+
+## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Attention-based weakly-supervised AI for understanding neurodegenerative diseases
+I developed data-efficient deep learning models trained with only slide-level supervision to extract biologically meaningful features from neuropathology images. The model generated attention maps that highlighted structural changes linked to tau aggregation, revealing subtle patterns often missed by manual review. These tools support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.16.654510v1)
+
+
+<img src="/files/ABMIL_AT8.png" width="480" height="270" />  
+
+## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;">  A vision foundation model for neuropathology for advancing AI-driven neuropathological image analysis
+I am developing the first neuropathology-specific foundation model leveraging the world’s largest digital neuropathology database, aiming to fully unlock the potential of AI-based analysis in advancing our understanding of NDs.  
+
+<img src="/files/FM_figures.png" width="480" height="320" />  
+
+## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Attention-based weakly-supervised AI for understanding neurodegenerative diseases
+I developed data-efficient deep learning models trained with only slide-level supervision to extract biologically meaningful features from neuropathology images. The model generated attention maps that highlighted structural changes linked to tau aggregation, revealing subtle patterns often missed by manual review. These tools support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.16.654510v1)
+
+## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Physics-Informed Neural Network for Mapping Tissue Dynamics Using Laser Speckle Contrast Imaging
+
+## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Self-supervised registration of Polarization-Sensitive Optical Coherence Tomography (PS-OCT) and quantitative Birefringence Microscopy (qBRM) images
+I developed a self-supervised registration framework to align PS-OCT and qBRM images without requiring paired ground truth. This approach leverages intrinsic structural consistency across modalities to learn accurate spatial correspondence in a data-efficient manner. 
+
+<img src="/files/OCT_qBRM_reg.png" width="480" height="320" /> 
+
 
 # <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;">Multimodal AI for Breast Cancer Diagnosis
 I have developed data fusion approaches to combine ultrasound, Diffuse Optical Tomography (DOT), and radiologists' BIRADS assessments for breast cancer diagnosis. The proposed two-stage approach can potentially distinguish breast cancers from benign lesions in near real-time. [[Paper1: Two-stage]](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.202300483) [[code1]](https://github.com/OpticalUltrasoundImaging/DOT_two_stage) [[Paper2: DOT + BIRADS]](https://www.spiedigitallibrary.org/journals/journal-of-biomedical-optics/volume-28/issue-8/086002/Two-stage-classification-strategy-for-breast-cancer-diagnosis-using-ultrasound/10.1117/1.JBO.28.8.086002.full) [[code2]](https://github.com/OpticalUltrasoundImaging/DOT_histo_SVM) [[Paper3: DOT + ultrasound]](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-4-1636&id=528551) [[code3]](https://github.com/OpticalUltrasoundImaging/Fusion_model)
@@ -27,23 +51,6 @@ Multiwavelength spatial frequency domain imaging (SFDI) can provide tissue optic
 
 <img src="/files/SFDI_colon.jpg" width="180" height="240" />  <img src="/files/SFDI_colon2.jpg" width="360" height="240" />
 
-# <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;"> AI-driven Understanding of Neurodegenerative Diseases from Human Brain Tissue Imaging 
-I develop data-efficient AI models that support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. 
-## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Attention-based weakly-supervised AI for understanding neurodegenerative diseases
-I developed data-efficient deep learning models trained with only slide-level supervision to extract biologically meaningful features from neuropathology images. The model generated attention maps that highlighted structural changes linked to tau aggregation, revealing subtle patterns often missed by manual review. These tools support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.16.654510v1)
-
-
-<img src="/files/ABMIL_AT8.png" width="480" height="270" />  
-
-## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;">  A vision foundation model for neuropathology for advancing AI-driven neuropathological image analysis
-I am developing the first neuropathology-specific foundation model leveraging the world’s largest digital neuropathology database, aiming to fully unlock the potential of AI-based analysis in advancing our understanding of NDs.  
-
-<img src="/files/FM_figures.png" width="480" height="320" />  
-
-## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Self-supervised registration of Polarization-Sensitive Optical Coherence Tomography (PS-OCT) and quantitative Birefringence Microscopy (qBRM) images
-I developed a self-supervised registration framework to align PS-OCT and qBRM images without requiring paired ground truth. This approach leverages intrinsic structural consistency across modalities to learn accurate spatial correspondence in a data-efficient manner. 
-
-<img src="/files/OCT_qBRM_reg.png" width="480" height="320" /> 
 
 # <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;">AI-Based Image Reconstruction and Quality Enhancement
 Optical imaging like Diffuse Optical Tomography (DOT) offers label-free, radiation-free, and cost-effective solutions for biomedical applications, but its clinical translation has been slowed by long acquisition times, lengthy reconstruction, and inconsistent image quality. To address these limitations, I developed AI-based methods that enhance both image acquisition and reconstruction. I built deep learning models, including physics-informed neural networks (PINNs), that accelerate data acquisition, suppress image artifacts, and improve reconstruction speed and accuracy. Collectively, these advances make optical imaging more robust, efficient, and suitable for clinical use.
