@@ -8,6 +8,7 @@ classes: wide
 As a researcher working at the intersection of artificial intelligence (AI) and biomedical imaging, I focus on both diagnostic applications and the investigation of disease mechanisms, particularly in cancer and neurodegenerative diseases (NDs). My work leverages trustworthy AI to enhance traditional and novel imaging modalities, uncover hidden pathological patterns, and integrate multimodal data. These efforts support drug discovery, improve diagnostic precision, and inform personalized treatment decisions.
 
 <img src="/files/research_overview.png" width="1000" height="600" /> 
+
 ## <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;"> AI-driven Understanding of the Brain 
 I established computational frameworks that support large-scale, quantitative analysis of neurodegenerative disease pathology, open opportunities to identify novel tissue-level markers of disease progression, and broaden exploration in systems neuroscience.
 
