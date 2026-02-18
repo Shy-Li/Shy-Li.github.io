@@ -5,6 +5,10 @@ layout: single
 author_profile: true
 classes: wide
 ---
+# <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">2025</span>
+- Poster presentation on foundation model for neuropathology in	SPIE Photonics West
+- __(Invited) Oral__ presentation on deep microscopy in SPIE Photonics West
+
 # <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">2024</span>
 - __(Invited) Oral__ presentation on foundation model for neuropathology in	Northeast Symposium on Biomedical Optics
 
