@@ -15,7 +15,6 @@ I established computational frameworks that support large-scale, quantitative an
 ## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Attention-based weakly-supervised AI for understanding neurodegenerative diseases
 I developed data-efficient deep learning models trained with only slide-level supervision to extract biologically meaningful features from neuropathology images. The model generated attention maps that highlighted structural changes linked to tau aggregation, revealing subtle patterns often missed by manual review. These tools support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.16.654510v1)
 
-
 <img src="/files/ABMIL_AT8.png" width="480" height="270" />  
 
 ## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;">  A vision foundation model for neuropathology for advancing AI-driven neuropathological image analysis
@@ -24,6 +23,7 @@ I am developing the first neuropathology-specific foundation model leveraging th
 <img src="/files/FM_figures.png" width="480" height="320" />  
 
 ## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Physics-Informed Neural Network for Mapping Tissue Dynamics Using Laser Speckle Contrast Imaging
+I developed a physics-informed neural network (PINN) to estimate fast (vascular) and slow (tissue-related) speckle decorrelation parameters directly from multi-exposure LSCI data without requiring ground-truth labels. The analytical LSCI model is embedded in the network loss function, enforcing consistency with speckle physics during training. The model operates in a self-supervised manner and performs pixel-wise inference across full-field images. The PINN accurately recovered fast decorrelation rates associated with cerebral blood flow and slower dynamics linked to tissue and cellular motion. The parameter maps closely match those from traditional nonlinear fitting, but at orders-of-magnitude higher speed, reducing analysis from several hours to two seconds per image. It also generalizes to unseen subjects and remains robust under noise. [[Paper]](https://www.biorxiv.org/content/10.64898/2026.02.01.702939v1)
 
 ## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Self-supervised registration of Polarization-Sensitive Optical Coherence Tomography (PS-OCT) and quantitative Birefringence Microscopy (qBRM) images
 I developed a self-supervised registration framework to align PS-OCT and qBRM images without requiring paired ground truth. This approach leverages intrinsic structural consistency across modalities to learn accurate spatial correspondence in a data-efficient manner. 
