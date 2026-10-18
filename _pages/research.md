@@ -5,25 +5,27 @@ layout: single
 author_profile: true
 classes: wide
 ---
-As a researcher working at the intersection of artificial intelligence (AI) and biomedical imaging, I focus on both diagnostic applications and the investigation of disease mechanisms, particularly in cancer and neurodegenerative diseases (NDs). My work leverages trustworthy AI to enhance traditional and novel imaging modalities, uncover hidden pathological patterns, and integrate multimodal data. These efforts support drug discovery, improve diagnostic precision, and inform personalized treatment decisions.
+My research connects optical measurement design, computational reconstruction, and machine learning to study brain physiology and tissue pathology. Building on my earlier work in optical cancer assessment, my current program focuses on two complementary directions.
 
 <img src="/files/research_overview.png" width="1000" height="600" /> 
 
-## <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;"> AI-driven Understanding of the Brain 
-I established computational frameworks that support large-scale, quantitative analysis of neurodegenerative disease pathology, open opportunities to identify novel tissue-level markers of disease progression, and broaden exploration in systems neuroscience.
+## <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;">1. Physics-informed neurophotonic systems for measuring brain dynamics</span>
 
-## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Attention-based weakly-supervised AI for understanding neurodegenerative diseases
-I developed data-efficient deep learning models trained with only slide-level supervision to extract biologically meaningful features from neuropathology images. The model generated attention maps that highlighted structural changes linked to tau aggregation, revealing subtle patterns often missed by manual review. These tools support large-scale, quantitative analysis of ND pathology and open new opportunities for identifying novel tissue-level markers of disease progression. [[Paper]](https://www.biorxiv.org/content/10.1101/2025.05.16.654510v1)
+I develop optical imaging methods that combine physical models with machine learning to quantify brain dynamics. My work in laser speckle contrast imaging uses physics-informed neural networks to recover quantitative parameters without requiring ground-truth parameter labels. This approach enables rapid reconstruction while preserving consistency with the underlying optical model. [Published work](https://doi.org/10.1117/1.NPh.13.3.035012)
 
-<img src="/files/ABMIL_AT8.png" width="480" height="270" />  
+Building on this foundation, I am investigating how optical acquisition and computational reconstruction can be designed together to improve measurement efficiency, accuracy, and reliability across experimental conditions. Through collaborations in neuroscience, I aim to establish what recovered optical signals reveal about brain physiology, stroke, and tissue recovery.
 
-## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;">  A vision foundation model for neuropathology for advancing AI-driven neuropathological image analysis
-I am developing the first neuropathology-specific foundation model leveraging the world’s largest digital neuropathology database, aiming to fully unlock the potential of AI-based analysis in advancing our understanding of NDs.  
+## <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;">2. Interpretable and generalizable AI for brain injury and neurodegeneration</span>
 
-<img src="/files/FM_figures.png" width="480" height="320" />  
+I develop AI methods that identify meaningful tissue features from neuropathology and three-dimensional optical images. My age-informed, attention-based learning framework predicts tau burden from stained brain images and connects its predictions with cortical and cellular features. [Published work](https://doi.org/10.1186/s40708-025-00276-9)
 
-## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Physics-Informed Neural Network for Mapping Tissue Dynamics Using Laser Speckle Contrast Imaging
-I developed a physics-informed neural network (PINN) to estimate fast (vascular) and slow (tissue-related) speckle decorrelation parameters directly from multi-exposure LSCI data without requiring ground-truth labels. The analytical LSCI model is embedded in the network loss function, enforcing consistency with speckle physics during training. The model operates in a self-supervised manner and performs pixel-wise inference across full-field images. The PINN accurately recovered fast decorrelation rates associated with cerebral blood flow and slower dynamics linked to tissue and cellular motion. The parameter maps closely match those from traditional nonlinear fitting, but at orders-of-magnitude higher speed, reducing analysis from several hours to two seconds per image. It also generalizes to unseen subjects and remains robust under noise. [[Paper]](https://www.biorxiv.org/content/10.64898/2026.02.01.702939v1)
+<img src="/files/ABMIL_AT8.png" width="480" height="270" />
+
+I also developed **NeuroPath**, a self-supervised foundation-model prototype for learning reusable representations of brain tissue. My ongoing work extends these approaches through anatomical and patient context, information across adjacent OCT slices, and representations spanning stains and brain regions. The goal is to distinguish disease-associated tissue changes from variation introduced by imaging and tissue preparation, supporting studies of vascular injury, myelin abnormalities, and neurodegeneration.
+
+<img src="/files/FM_figures.png" width="480" height="320" />
+
+Together, these directions support a longer-term effort to connect optical measurements of brain dynamics with independently assessed tissue outcomes, testing which imaging features provide reliable information about vulnerability, injury, and recovery.
 
 ## <span style="color:teal; font-family:Arial, sans-serif; font-size: 16px;"> Self-supervised registration of Polarization-Sensitive Optical Coherence Tomography (PS-OCT) and quantitative Birefringence Microscopy (qBRM) images
 I developed a self-supervised registration framework to align PS-OCT and qBRM images without requiring paired ground truth. This approach leverages intrinsic structural consistency across modalities to learn accurate spatial correspondence in a data-efficient manner. 

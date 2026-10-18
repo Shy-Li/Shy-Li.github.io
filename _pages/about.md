@@ -7,7 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Assistant Professor in Chemical, Paper, and Biomedical Engineering and Department of Computer Science and Software Engineering at Miami University–Oxford. I completed my Ph.D. in Biomedical Engineering at Washington University in St. Louis in 2023 and completed my postdoctoral training at Boston University in 2025.  My research develops AI tools for biomedical imaging to improve diagnosis, deepen biological insight, and support clinical decision-making. My work spans a broad spectrum of applications, from diagnosis to understanding disease mechanisms, focusing on cancer and neurodegenerative diseases (NDs). I develop trustworthy AI tools to enhance the capabilities of both traditional and emerging imaging modalities by uncovering hidden patterns and integrating multimodal data. I aim to address practical challenges in clinical and preclinical studies, ultimately assisting in clinical decision-making and enhancing the quality of patients' lives.
+I am an Assistant Professor in the Department of Chemical, Paper, and Biomedical Engineering at Miami University, with an affiliated faculty appointment in Computer Science and Software Engineering. I earned my Ph.D. in Biomedical Engineering at Washington University in St. Louis in 2023 and completed my postdoctoral training in Electrical and Computer Engineering at Boston University in 2025.
+
+My research develops computational neuroimaging methods to study brain function, injury, and neurodegeneration. I combine optical imaging, physics-informed modeling, and interpretable AI to measure brain dynamics and characterize changes in tissue structure and pathology. A central question guides my work: how can we design optical measurements and computational models together to recover reliable, biologically meaningful information about the brain?
+
+My laboratory pursues two complementary directions: **physics-informed neurophotonic systems for measuring brain dynamics**, and **interpretable and generalizable AI for brain injury and neurodegeneration**. Our long-term goal is to develop imaging capabilities and biologically grounded markers that reveal mechanisms of brain vulnerability and inform strategies for protecting brain function and promoting recovery.
 
 <img src="/files/research_overview.png" width="900" height="540" /> 
 
