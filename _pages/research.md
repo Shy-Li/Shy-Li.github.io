@@ -13,15 +13,13 @@ My research connects optical measurement design, computational reconstruction, a
 
 I develop optical imaging methods that combine physical models with machine learning to quantify brain dynamics. My work in laser speckle contrast imaging uses physics-informed neural networks to recover quantitative parameters without requiring ground-truth parameter labels. This approach enables rapid reconstruction while preserving consistency with the underlying optical model. [Published work](https://doi.org/10.1117/1.NPh.13.3.035012)
 
-Building on this foundation, I am investigating how optical acquisition and computational reconstruction can be designed together to improve measurement efficiency, accuracy, and reliability across experimental conditions. Through collaborations in neuroscience, I aim to establish what recovered optical signals reveal about brain physiology, stroke, and tissue recovery.
-
 ## <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;">2. Interpretable and generalizable AI for brain injury and neurodegeneration</span>
 
 I develop AI methods that identify meaningful tissue features from neuropathology and three-dimensional optical images. My age-informed, attention-based learning framework predicts tau burden from stained brain images and connects its predictions with cortical and cellular features. [Published work](https://doi.org/10.1186/s40708-025-00276-9)
 
 <img src="/files/ABMIL_AT8.png" width="480" height="270" />
 
-I also developed **NeuroPath**, a self-supervised foundation-model prototype for learning reusable representations of brain tissue. My ongoing work extends these approaches through anatomical and patient context, information across adjacent OCT slices, and representations spanning stains and brain regions. The goal is to distinguish disease-associated tissue changes from variation introduced by imaging and tissue preparation, supporting studies of vascular injury, myelin abnormalities, and neurodegeneration.
+I also developed **NeuroPath**, a self-supervised foundation-model prototype for learning reusable representations of brain tissue.
 
 <img src="/files/FM_figures.png" width="480" height="320" />
 
