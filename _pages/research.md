@@ -5,15 +5,15 @@ layout: single
 author_profile: true
 classes: wide
 ---
-My research connects optical measurement design, computational reconstruction, and machine learning to study brain physiology and tissue pathology. Building on my earlier work in optical cancer assessment, my current program focuses on two complementary directions.
+My research connects optical measurement design, computational reconstruction, and machine learning to study brain physiology and tissue pathology.
 
 <img src="/files/research_overview.png" width="1000" height="600" /> 
 
-## <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;">1. Physics-informed neurophotonic systems for measuring brain dynamics</span>
+# <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;">Physics-informed neurophotonic systems for measuring brain dynamics</span>
 
 I develop optical imaging methods that combine physical models with machine learning to quantify brain dynamics. My work in laser speckle contrast imaging uses physics-informed neural networks to recover quantitative parameters without requiring ground-truth parameter labels. This approach enables rapid reconstruction while preserving consistency with the underlying optical model. [Published work](https://doi.org/10.1117/1.NPh.13.3.035012)
 
-## <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;">2. Interpretable and generalizable AI for brain injury and neurodegeneration</span>
+# <span style="color:black; font-family:Arial, sans-serif; font-size: 22px;">Interpretable and generalizable AI for brain injury and neurodegeneration</span>
 
 I develop AI methods that identify meaningful tissue features from neuropathology and three-dimensional optical images. My age-informed, attention-based learning framework predicts tau burden from stained brain images and connects its predictions with cortical and cellular features. [Published work](https://doi.org/10.1186/s40708-025-00276-9)
 
