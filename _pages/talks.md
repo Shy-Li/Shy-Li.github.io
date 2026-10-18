@@ -5,9 +5,16 @@ layout: single
 author_profile: true
 classes: wide
 ---
+
+# <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">2026</span>
+
+- **Invited talk:** Physics-Informed Deep Learning for Biomedical Imaging. Gordon Research Conference, Optics and Photonics in Medicine and Biology, Lewiston, Maine, July 12–17, 2026. [[Conference program]](https://www.grc.org/optics-and-photonics-in-medicine-and-biology-conference/2026/)
+- **Conference contribution:** Physics-Informed Neural Network for Mapping Vascular and Tissue Dynamics Using Laser Speckle Contrast Imaging. Optica Biophotonics Congress, Optical Tomography and Spectroscopy, Fort Lauderdale, Florida, April 26–29, 2026, OS3D.6. [[Abstract]](https://doi.org/10.1364/OTS.2026.OS3D.6)
+
 # <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">2025</span>
-- Poster presentation on foundation model for neuropathology in	SPIE Photonics West
-- __(Invited) Oral__ presentation on deep microscopy in SPIE Photonics West
+
+- **Invited talk:** Advancing computational miniature microscopy: leveraging physics-based simulation and deep learning. SPIE Photonics West.
+- **Poster:** NeuroPath: a vision foundation model for advancing neuropathological analysis. SPIE Photonics West.
 
 # <span style="color:teal; font-family:Comic Sans MS;font-size: 20px;">2024</span>
 - __(Invited) Oral__ presentation on foundation model for neuropathology in	Northeast Symposium on Biomedical Optics
